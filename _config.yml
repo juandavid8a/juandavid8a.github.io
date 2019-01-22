@@ -18,8 +18,8 @@ author:
   name:           'Juan David Ochoa'
   url:            http://juandavid8a.github.io
   gravatar:       https://es.gravatar.com/juandavid8a160218
-  photo:          https://s.gravatar.com/avatar/cd52071b4f9bd4270c077c653c8ca1d7?s=80
-  introduction:   'Some introduction words that will be displayed under the avatar. You may include HTML <a href="#">here</a>.'
+  photo:          https://s.gravatar.com/avatar/cd52071b4f9bd4270c077c653c8ca1d7?s=350
+  introduction:   'Full Stack Developer, jugador de PaintBall, Roller Derby, Gomoso de la Robótica, Electrónica y La Tecnología.'
 
 paginate:         5
 paginate_path:    '/blog/page:num'

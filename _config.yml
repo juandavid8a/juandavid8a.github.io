@@ -9,14 +9,14 @@ permalink:           pretty
 relative_permalinks: false
 
 # Setup
-title:            Codinfox
-tagline:          'Learning to be Giant.'
-description:      'Blog of YourName. Here are some technical stuff. Some notes about development.'
-url:              http://codinfox.github.io
+title:            JuanDavid8a
+tagline:          'Be Happy.'
+description:      'Full Stack Developer, jugador de PaintBall, Roller Derby, Gomoso de la Robótica, Electrónica y La Tecnología.'
+url:              http://juandavid8a.github.io
 
 author:
-  name:           'Your Name'
-  url:            http://codinfox.github.io
+  name:           'Juan David Ochoa'
+  url:            http://juandavid8a.github.io
   gravatar:       https://en.gravatar.com/yourname
   photo:          http://2.gravatar.com/avatar/00000000000000000000000000000000?size=350
   introduction:   'Some introduction words that will be displayed under the avatar. You may include HTML <a href="#">here</a>.'

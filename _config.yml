@@ -17,8 +17,8 @@ url:              http://juandavid8a.github.io
 author:
   name:           'Juan David Ochoa'
   url:            http://juandavid8a.github.io
-  gravatar:       https://en.gravatar.com/yourname
-  photo:          http://2.gravatar.com/avatar/00000000000000000000000000000000?size=350
+  gravatar:       https://es.gravatar.com/juandavid8a160218
+  photo:          https://s.gravatar.com/avatar/cd52071b4f9bd4270c077c653c8ca1d7?s=80
   introduction:   'Some introduction words that will be displayed under the avatar. You may include HTML <a href="#">here</a>.'
 
 paginate:         5

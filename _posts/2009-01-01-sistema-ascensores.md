@@ -6,6 +6,7 @@ comments: true
 category: Proyectos
 tags: Proyectos
 ---
+<img src="/public/imgs/proyectos/positivoGroup.png" />
 
 (Backend y Fronend) Base de datos nacional con información de ascensores disponibles para publicidad en edificios recidenciales y comerciales, todo en un mapa interactivo con geo-localización. 
 

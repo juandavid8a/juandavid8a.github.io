@@ -2,9 +2,11 @@
 layout: post
 title:  "Fundación el Cinco"
 description: Sistema para administrar aportes que realizan empresas y empleados a ONG
-img: proyectos/elcinco.png
-date: 2009-02-01  +0200
+comments: true
+category: Proyectos
+tags: Proyectos
 ---
+<img src="/public/imgs/proyectos/elcinco.png" />
 
 Sistematización de procesos (Backend y Fronend) para el desarrollo de proyectos productivos de carácter asociativo. Se establece encadenamientos productivos, empleando para ello recursos provenientes de individuos e instituciones.
 

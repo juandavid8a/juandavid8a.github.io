@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Resume
+title: Hoja de vida
 resume_short: /public/resume.pdf
 resume_long: /public/resume_long.pdf
 ---

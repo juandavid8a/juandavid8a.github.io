@@ -3,8 +3,8 @@ layout: post
 title:  "Fundación el Cinco"
 description: Sistema para administrar aportes que realizan empresas y empleados a ONG
 comments: true
-category: Proyectos
-tags: Proyectos
+category: Sistematizaciones
+tags: Integraciones Web
 ---
 <img src="/public/imgs/proyectos/elcinco.png" />
 

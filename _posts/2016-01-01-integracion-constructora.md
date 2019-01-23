@@ -3,8 +3,8 @@ layout: post
 title:  "Herramienta Web Arquitectura y Concreto"
 description: Integración de sistemas, sistematización de procesos y catalogo de proyectos.
 comments: true
-category: Proyectos
-tags: Proyectos
+category: Sistematizaciones
+tags: Integraciones Web
 ---
 <img src="/public/imgs/proyectos/arquitectura.png" />
 

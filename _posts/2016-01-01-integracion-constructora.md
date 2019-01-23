@@ -2,10 +2,12 @@
 layout: post
 title:  "Herramienta Web Arquitectura y Concreto"
 description: Integración de sistemas, sistematización de procesos y catalogo de proyectos.
-img: proyectos/arquitectura.png
-date:   2016-01-01 14:55:52 +0200
-categories: proyectos
+comments: true
+category: Proyectos
+tags: Proyectos
 ---
+<img src="/public/imgs/proyectos/arquitectura.png" />
+
 Herramienta web (Backend y Frontend) para la empresa Arquitectura y Concreto, dedicada a la construcción, comercialización y gerencia de proyectos inmobiliarios de índole institucional, pública, comercial, empresarial, turística y residencial.
 
 Tecnologias: Web Services SOAP, Html, Javascript, Php, MySql, Google maps, Bootstrap, Joomla.

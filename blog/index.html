@@ -1,12 +1,12 @@
 ---
 layout: blog_index
-title: Blog
+title: Trabajos
 ---
 
 <h1 class="page-title" style="display:inline-block;"> {{ page.title }} </h1>
 
 <div style="display:inline-block;margin-left:.5em;">
-    Browse by <a href="/blog/category/">Category</a> or <a href="/blog/tag/">Tag</a>
+    Buscar por <a href="/blog/category/">Category</a> or <a href="/blog/tag/">Tag</a>
 </div>
 
 <br/><br/>
@@ -33,8 +33,8 @@ title: Blog
         {{ post.content | split:"<!-- more -->" | first % }}
 
         <div class="codinfox-post-more">
-            <a href="{{ post.url }}#disqus_thread">Comment</a>&nbsp;
-            <a href="{{ post.url }}">Read more</a>
+            <a href="{{ post.url }}#disqus_thread">Comentarios</a>&nbsp;
+            <a href="{{ post.url }}">Leer Más</a>
         </div>
         <hr/>
 
@@ -44,17 +44,17 @@ title: Blog
 
 <div class="pagination">
     {% if paginator.next_page %}
-    <a class="pagination-item older" href="/blog/page{{paginator.next_page}}">Older</a>
+    <a class="pagination-item older" href="/blog/page{{paginator.next_page}}">Mas Viejos</a>
     {% else %}
-    <span class="pagination-item older">Older</span>
+    <span class="pagination-item older">Más Viejos</span>
     {% endif %}
     {% if paginator.previous_page %}
     {% if paginator.page == 2 %}
-    <a class="pagination-item newer" href="/blog">Newer</a>
+    <a class="pagination-item newer" href="/blog">Más Nuevo</a>
     {% else %}
-    <a class="pagination-item newer" href="/blog/page{{paginator.previous_page}}">Newer</a>
+    <a class="pagination-item newer" href="/blog/page{{paginator.previous_page}}">Más Nuevo</a>
     {% endif %}
     {% else %}
-    <span class="pagination-item newer">Newer</span>
+    <span class="pagination-item newer">Más Nuevo</span>
     {% endif %}
 </div>

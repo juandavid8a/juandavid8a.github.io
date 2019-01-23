@@ -3,8 +3,8 @@ layout: post
 title:  "Renacer Prendas"
 description: Sistema administrativo de procesos internos 
 comments: true
-category: Proyectos
-tags: Proyectos
+category: Sistematizaciones
+tags: Integraciones Web
 ---
 <img src="/public/imgs/proyectos/renacerPrendas.jpg" />
 

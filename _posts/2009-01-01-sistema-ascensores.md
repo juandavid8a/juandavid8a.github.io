@@ -2,8 +2,9 @@
 layout: post
 title:  "Positivo + Group Publicidad"
 description: Backend y frontend para administración de publicidad en ascensores
-img: proyectos/positivoGroup.png
-date: 2009-01-01  +0200
+comments: true
+category: Proyectos
+tags: Proyectos
 ---
 
 (Backend y Fronend) Base de datos nacional con información de ascensores disponibles para publicidad en edificios recidenciales y comerciales, todo en un mapa interactivo con geo-localización. 

@@ -3,8 +3,8 @@ layout: post
 title:  "Positivo + Group Publicidad"
 description: Backend y frontend para administración de publicidad en ascensores
 comments: true
-category: Proyectos
-tags: Proyectos
+category: Sistematizaciones
+tags: Proyectos Integraciones Web
 ---
 <img src="/public/imgs/proyectos/positivoGroup.png" />
 

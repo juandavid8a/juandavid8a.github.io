@@ -4,7 +4,7 @@ title:  "Positivo + Group Publicidad"
 description: Backend y frontend para administración de publicidad en ascensores
 comments: true
 category: Sistematizaciones
-tags: Proyectos Integraciones Web
+tags: Integraciones Web
 ---
 <img src="/public/imgs/proyectos/positivoGroup.png" />
 

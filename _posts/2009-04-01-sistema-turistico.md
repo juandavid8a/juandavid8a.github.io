@@ -2,9 +2,11 @@
 layout: post
 title:  "Revista Turistica PasoBueno"
 description: Sistema administrativo de sitios turisticos Santa Elena
-img: proyectos/pasoBueno.png
-date: 2009-02-01  +0200
+comments: true
+category: Proyectos
+tags: Proyectos
 ---
+<img src="/public/imgs/proyectos/pasoBueno.png" />
 
 Directorio turístico (Backend y Frontend) Paso Bueno: La primera guía turística especializada del Corregimiento de Santa Elena.
 

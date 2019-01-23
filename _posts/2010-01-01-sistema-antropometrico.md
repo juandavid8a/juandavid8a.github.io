@@ -3,8 +3,8 @@ layout: post
 title:  "Promesas del Futbol"
 description: Plataforma tecnológica para promoción de futbolistas Colombianos en el exterior.
 comments: true
-category: Proyectos
-tags: Proyectos
+category: Sistematizaciones
+tags: Integraciones Web
 ---
 <img src="/public/imgs/proyectos/promesas.jpg" />
 

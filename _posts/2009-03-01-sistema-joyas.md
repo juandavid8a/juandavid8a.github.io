@@ -2,9 +2,11 @@
 layout: post
 title:  "Renacer Prendas"
 description: Sistema administrativo de procesos internos 
-img: proyectos/renacerPrendas.jpg
-date: 2009-03-01  +0200
+comments: true
+category: Proyectos
+tags: Proyectos
 ---
+<img src="/public/imgs/proyectos/renacerPrendas.jpg" />
 
 Sistematización de procesos internos en Colombia y Venezuela para empresa dedicada a la comercialización por sistema de Venta Directa de las Colecciones de Accesorios en fantasía fina, baño de oro y plata.
 

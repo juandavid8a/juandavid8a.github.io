@@ -1,8 +1,7 @@
 ---
 layout: page
 title: Hoja de vida
-resume_short: /public/resume.pdf
-resume_long: /public/resume_long.pdf
+pdf: /public/juandavid8a.pdf
 ---
 <p class="message">
 Full Stack Developer con más de 20 años de experiencia, siempre me he destacado en entender y analizar los procesos para  sistematizarlos eficientemente y resolver de una manera creativa los problemas. 
@@ -13,7 +12,7 @@ Experto en Sistematización de Procesos en la Nube (Test-driven development (TDD
 </blockquote>
 
 <hr/>
-<div id="cf-pdf-down">Descargar PDF: <a href="{{ page.resume_short }}">corta</a>&nbsp;|&nbsp;<a href="{{ page.resume_long }}">larga</a></div>
+<div id="cf-pdf-down">Descargar PDF: <a href="{{ page.pdf }}">Linkedin</a></div>
 <hr/>
 
 ## Experiencia Laboral

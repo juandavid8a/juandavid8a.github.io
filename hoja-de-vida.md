@@ -6,11 +6,11 @@ resume_long: /public/resume_long.pdf
 ---
 
 <p class="message">
-Full Stack Developer con más de 20 años de experiencia, siempre me he destacado en entender y analizar los procesos para  sistematizarlos eficientemente y resolvero de una manera creativa los problemas. 
+Full Stack Developer con más de 20 años de experiencia, siempre me he destacado en entender y analizar los procesos para  sistematizarlos eficientemente y resolver de una manera creativa los problemas. 
 </p>
 
 <blockquote>
-Sistematización de Procesos en la Nube (Test-driven development (TDD), Behavior Driven Development (BDD), PHPunit, Metodologías Ágiles (Scrum), Bitbucket Pipelines (Atlassian), AWS administrator, Control de versiones (GIT), Bases de datos no relacionales (mongoDB), SOAP WebServices (C#), ERP SAP Business One (SDK - UIAPI), TCP server (Sockets)), jugador de PaintBall, Roller Derby, Gomoso de la Robótica, Internet de las cosas, Electrónica y La Tecnología en General.
+Experto en Sistematización de Procesos en la Nube (Test-driven development (TDD), Behavior Driven Development (BDD), PHPunit, Metodologías Ágiles (Scrum), Bitbucket Pipelines (Atlassian), Amazon Web Service Administrator, Control de versiones (GIT), Bases de datos no relacionales (mongoDB), SOAP WebServices (C#), ERP SAP Business One (SDK - UIAPI), TCP server (Sockets)), Técnicas Scrum.
 </blockquote>
 
 ## Experiencia Laboral

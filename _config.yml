@@ -19,7 +19,7 @@ author:
   url:            http://juandavid8a.github.io
   gravatar:       https://es.gravatar.com/juandavid8a160218
   photo:          https://s.gravatar.com/avatar/cd52071b4f9bd4270c077c653c8ca1d7?s=350
-  introduction:   'Experto en Sistematización de Procesos en la Nube (Test-driven development (TDD), Behavior Driven Development (BDD), PHPunit, Metodologías Ágiles (Scrum), Bitbucket Pipelines (Atlassian), Amazon Web Service Administrator, Control de versiones (GIT), Bases de datos no relacionales (mongoDB), SOAP WebServices (C#), ERP SAP Business One (SDK - UIAPI), TCP server (Sockets)), jugador de PaintBall, Roller Derby, Gomoso de la Robótica, Electrónica y La Tecnología.'
+  introduction:   'Full Stack Developer experto en Sistematización de Procesos en la Nube, Jugador de PaintBall, Roller Derby, Gomoso de la Robótica, Electrónica y La Tecnología.'
 
 paginate:         5
 paginate_path:    '/blog/page:num'
@@ -28,4 +28,4 @@ paginate_path:    '/blog/page:num'
 version:          1.0.0
 
 github:
-  repo:           https://github.com/codinfox/lanyon-codinfox.github.io
+  repo:           https://github.com/juandavid8a

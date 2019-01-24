@@ -12,7 +12,7 @@ Experto en Sistematización de Procesos en la Nube (Test-driven development (TDD
 </blockquote>
 
 <hr/>
-<div id="cf-pdf-down">Descargar PDF: <a href="{{ page.pdf }}">Linkedin</a></div>
+<div id="cf-pdf-down">Descargar PDF: <a target="_blank" href="{{ page.pdf }}">Linkedin</a></div>
 <hr/>
 
 ## Experiencia Laboral

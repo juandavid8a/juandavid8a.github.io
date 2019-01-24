@@ -1,10 +1,13 @@
 ---
 layout: page
 title: Sobre mi
+url_1: https://www.google.com/search?q=doogie+howser
 ---
 
+De niño todo indicaba que iba a ser médico, realice mil cursos de primeros auxilios y durante muchos años fui el encargado de la cruz roja de mi institución educativa. Es por esto y mi gran parecido de niño a Neil Patrick Harris, me gane el apodo de "Doogie Howser".
+
 <p class="message">
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+De niño todo indicaba que iba a ser médico, realice mil cursos de primeros auxilios y durante muchos años fui el encargado de la cruz roja de mi institución educativa. Es por esto que me gane el apodo de "Doogie Howser" 
 </p>
 
 <blockquote>

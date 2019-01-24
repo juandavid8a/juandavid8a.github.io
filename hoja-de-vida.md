@@ -6,7 +6,7 @@ resume_long: /public/resume_long.pdf
 ---
 
 <p class="message">
-This page is under construction. Information here may be incorrect or incomplete. For more detailed information, you should regularly check this page for updates.
+Full Stack Developer con más de 20 años de experiencia, siempre me he destacado en entender y analizar los procesos para  sistematizarlos eficientemente y resolvero de una manera creativa los problemas. 
 </p>
 
 <blockquote>
@@ -20,7 +20,7 @@ Sistematización de Procesos en la Nube (Test-driven development (TDD), Behavior
 2017 – actualidad<br>
 Medellin - Colombia<br>
 
-Sistematización de procesos e integración con SAP Business One (AWS, Rackspace Cloud, C#, Javascript, PHP, Kubernetes, Docker, MongoDB, TDD, BDD, Laravel, PHPunit, TCP sockets)
+Sistematización de procesos e integración con SAP Business One (AWS, Rackspace Cloud, C#, SOAP, Javascript, PHP, Kubernetes, Docker, MongoDB, TDD, BDD, Laravel, PHPunit, TCP sockets)
 <hr/>
 ### Director Departamento de Desarrollo.
 **Suiche Creativo**<br>

@@ -5,6 +5,9 @@ resume_short: /public/resume.pdf
 resume_long: /public/resume_long.pdf
 ---
 
+<hr/>
+<div id="cf-pdf-down">Descargar PDF: <a href="{{ page.resume_short }}">corta</a>&nbsp;|&nbsp;<a href="{{ page.resume_long }}">larga</a></div>
+
 <p class="message">
 Full Stack Developer con más de 20 años de experiencia, siempre me he destacado en entender y analizar los procesos para  sistematizarlos eficientemente y resolver de una manera creativa los problemas. 
 </p>
@@ -56,6 +59,3 @@ Sistematización de procesos, Páginas Web, Gestores de Contenido, Javascript, A
 Medellin - Colombia<br>
 
 Sistematización de procesos, Páginas Web, Gestores de Contenido, Javascript, AJAX, HTML, PHP, MYSQL
-
-<hr/>
-<div id="cf-pdf-down">PDF versions: <a href="{{ page.resume_short }}">short</a>&nbsp;|&nbsp;<a href="{{ page.resume_long }}">long</a></div>

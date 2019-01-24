@@ -1,6 +1,6 @@
 ---
 layout: blog_index
-title: Trabajos
+title: Blog
 ---
 
 <h1 class="page-title" style="display:inline-block;"> {{ page.title }} </h1>
@@ -50,7 +50,7 @@ title: Trabajos
     {% endif %}
     {% if paginator.previous_page %}
     {% if paginator.page == 2 %}
-    <a class="pagination-item newer" href="/blog">Más Nuevo</a>
+    <a class="pagination-item newer" href="/blog">Más Nuevos</a>
     {% else %}
     <a class="pagination-item newer" href="/blog/page{{paginator.previous_page}}">Más Nuevo</a>
     {% endif %}

@@ -7,7 +7,7 @@ resume_long: /public/resume_long.pdf
 
 <hr/>
 <div id="cf-pdf-down">Descargar PDF: <a href="{{ page.resume_short }}">corta</a>&nbsp;|&nbsp;<a href="{{ page.resume_long }}">larga</a></div>
-
+<hr/>
 <p class="message">
 Full Stack Developer con más de 20 años de experiencia, siempre me he destacado en entender y analizar los procesos para  sistematizarlos eficientemente y resolver de una manera creativa los problemas. 
 </p>

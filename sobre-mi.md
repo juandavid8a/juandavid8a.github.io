@@ -12,6 +12,7 @@ url_1: https://www.google.com/search?q=doogie+howser
       <td><img src="/public/imgs/yo-joven.jpg" alt="JuanDavid8a" style="max-width:78px;"/></td>
     </tr>
     <tr>
+      <td></td>
       <td>Doogie</td>
       <td>Yo</td>
     </tr>

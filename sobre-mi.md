@@ -2,21 +2,16 @@
 layout: page
 title: Sobre mi
 url_1: https://www.google.com/search?q=doogie+howser
-url_2: https://es.wikipedia.org/wiki/Prince_of_Persia_(videojuego_de_1989)
-url_3: https://es.wikipedia.org/wiki/Doom_(serie)
+url_2: https://www.google.com/search?q=prince+of+persia+game+1989
+url_3: https://www.google.com/search?q=doom+game+1993
 ---
 
 <table style="text-align: center; width: auto;">
   <tbody>
     <tr>
       <td>De niño todo indicaba que iba a ser médico, realice mil cursos de primeros auxilios y durante muchos años fui el encargado de la cruz roja de mi institución educativa. Es por esto y mi gran parecido a Neil Patrick Harris cuando eramos niños, me hice acreedor del apodo de "<a target="_blank" href="{{ page.url_1 }}">Doogie Howser</a>".</td>
-      <td><img src="/public/imgs/doogie-howser.jpg" alt="Doogie Howser"/></td>
-      <td><img src="/public/imgs/yo-joven.jpg" alt="JuanDavid8a" style="max-width:78px;"/></td>
-    </tr>
-    <tr>
-      <td></td>
-      <td>Doogie</td>
-      <td>Yo</td>
+      <td><img src="/public/imgs/doogie-howser.jpg" alt="Doogie Howser"/>Doogie</td>
+      <td><img src="/public/imgs/yo-joven.jpg" alt="JuanDavid8a" style="max-width:78px;"/>Yo</td>
     </tr>
   </tbody>
 </table>

@@ -2,12 +2,14 @@
 layout: page
 title: Sobre mi
 url_1: https://www.google.com/search?q=doogie+howser
+url_2: https://es.wikipedia.org/wiki/Prince_of_Persia_(videojuego_de_1989)
+url_3: https://es.wikipedia.org/wiki/Doom_(serie)
 ---
 
 <table style="text-align: center; width: auto;">
   <tbody>
     <tr>
-      <td>De niño todo indicaba que iba a ser médico, realice mil cursos de primeros auxilios y durante muchos años fui el encargado de la cruz roja de mi institución educativa. Es por esto y mi gran parecido a Neil Patrick Harris cuando eramos niños, me hice acreedor del apodo de "<a target="_blank" href="{{ page.url_1 }}">**Doogie Howser**</a>".</td>
+      <td>De niño todo indicaba que iba a ser médico, realice mil cursos de primeros auxilios y durante muchos años fui el encargado de la cruz roja de mi institución educativa. Es por esto y mi gran parecido a Neil Patrick Harris cuando eramos niños, me hice acreedor del apodo de "<a target="_blank" href="{{ page.url_1 }}">Doogie Howser</a>".</td>
       <td><img src="/public/imgs/doogie-howser.jpg" alt="Doogie Howser"/></td>
       <td><img src="/public/imgs/yo-joven.jpg" alt="JuanDavid8a" style="max-width:78px;"/></td>
     </tr>
@@ -19,8 +21,10 @@ url_1: https://www.google.com/search?q=doogie+howser
   </tbody>
 </table>
 
+En 1995 un grupo de personas llevaron a mi colegio un par de computadores y realizarón una demostración de lo que podiamos aprender si nuestros padres accedian a pagar un curso de sistemas ... y !!click!! la medicina voló al infinito y más allá. Descubrí al "<a target="_blank" href="{{ page.url_2 }}">Principe de persia</a>", a "<a target="_blank" href="{{ page.url_3 }}">Doom</a>" y el resto es historia.     
+
 <p class="message">
-De niño todo indicaba que iba a ser médico, realice mil cursos de primeros auxilios y durante muchos años fui el encargado de la cruz roja de mi institución educativa. Es por esto que me gane el apodo de "Doogie Howser" 
+
 </p>
 
 <blockquote>

@@ -18,12 +18,16 @@ url_3: https://www.google.com/search?q=doom+game+1993
 
 En 1995 un grupo de personas llevaron a mi colegio un par de computadores y realizarón una demostración de lo que podiamos aprender si nuestros padres accedian a pagar un curso de sistemas ... y !!click!! la medicina voló al infinito y más allá. Descubrí al <a target="_blank" href="{{ page.url_2 }}">Principe de persia</a>, a <a target="_blank" href="{{ page.url_3 }}">Doom</a> y el resto es historia.     
 
-<p class="message">
+Doy gracias que descubrí los computadores en la epoca cuando apenas iniciaba todo y tengo el privilegio de a lo largo de mi vida experimentar desde casi cero, cada paso de evolución en los distemas. Desde el principio donde las pantallas de color beig sólo mostraban letras con MS-DOS, luego se revoluciono todo con windows 3.1, 3.11, 95, 98, 2000, XP, Vista, 7, 8, 8.1, 10.
 
+
+ 
+<p class="message">
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 </p>
 
 <blockquote>
-Sistematización de Procesos en la Nube (Test-driven development (TDD), Behavior Driven Development (BDD), PHPunit, Metodologías Ágiles (Scrum), Bitbucket Pipelines (Atlassian), AWS administrator, Control de versiones (GIT), Bases de datos no relacionales (mongoDB), SOAP WebServices (C#), ERP SAP Business One (SDK - UIAPI), TCP server (Sockets)), jugador de PaintBall, Roller Derby, Gomoso de la Robótica, Internet de las cosas, Electrónica y La Tecnología en General.
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 </blockquote>
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.

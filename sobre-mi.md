@@ -10,9 +10,11 @@ De niño todo indicaba que iba a ser médico, realice mil cursos de primeros aux
   <tbody>
     <tr>
       <td><img src="/public/imgs/doogie-howser.jpg" alt="Doogie Howser"/></td>
+      <td><img src="/public/imgs/yo-joven.jpg" style="max-width:78px;" alt="JuanDavid8a"/></td>
     </tr>
     <tr>
-      <td><img src="/public/imgs/yo-joven.jpg" style="max-width:78px;" alt="JuanDavid8a"/></td>
+      <td>Doogie</td>
+      <td>Yo</td>
     </tr>
   </tbody>
 </table>

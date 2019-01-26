@@ -19,7 +19,7 @@ url_4: https://it.wikipedia.org/wiki/Banner_Mania
 
 En 1995 un grupo de personas llevaron a mi colegio un par de computadores y realizarón una demostración de lo que podiamos aprender si nuestros padres accedian a pagar un curso de sistemas ... y !!click!! la medicina voló al infinito y más allá. Descubrí al <a target="_blank" href="{{ page.url_2 }}">Principe de persia</a>, a <a target="_blank" href="{{ page.url_3 }}">Doom</a> y <a target="_blank" href="{{ page.url_4 }}">Banner Mania</a> ... ya el resto es historia.     
 
-Doy gracias que descubrí los computadores en la epoca cuando apenas iniciaba todo y tengo el privilegio de a lo largo de mi vida experimentar desde casi cero, cada paso de evolución en los distemas. Desde el principio donde las pantallas de color beig sólo mostraban letras con MS-DOS, luego se revoluciono todo con windows 3.1, 3.11, 95, NT, 98, 2000, XP, Vista, 7, 8, 8.1, 10.
+Doy gracias que descubrí los computadores en la epoca cuando apenas iniciaba todo y tengo el privilegio de a lo largo de mi vida experimentar desde casi cero, cada paso de evolución en los sistemas. Desde el principio donde las pantallas de color beig sólo mostraban letras con MS-DOS, luego se revoluciono todo con windows 3.1, 3.11, 95, NT, 98, 2000, XP, Vista, 7, 8, 8.1, 10.
 
 
  

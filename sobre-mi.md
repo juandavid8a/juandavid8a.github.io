@@ -15,7 +15,7 @@ url_9: https://es.wikipedia.org/wiki/Windows_3.x
 <table style="text-align: center; width: auto;">
   <tbody>
     <tr>
-      <td>Todo indicaba que iba a ser médico, realice mil cursos de primeros auxilios y durante muchos años fui el encargado de la cruz roja de mi institución educativa. Es por esto y mi gran parecido a Neil Patrick Harris cuando eramos niños, me hice acreedor del apodo de <a target="_blank" href="{{ page.url_1 }}">Doogie Howser</a>.</td>
+      <td>Todo indicaba que iba a ser médico, realice mil cursos de primeros auxilios y durante muchos años fui el encargado de la cruz roja de mi institución educativa. Es por esto y mi gran parecido a Neil Patrick Harris cuando eramos niños, me hice acreedor del apodo de <a target="_blank" href="{{ page.url_1 }}">Doogie Howser</a> (El medico genio más joven del mundo).</td>
       <td><img src="/public/imgs/doogie-howser.jpg" alt="Doogie Howser"/>Doogie</td>
       <td><img src="/public/imgs/yo-joven.jpg" alt="JuanDavid8a" style="max-width:78px;"/>Yo</td>
     </tr>

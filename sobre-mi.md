@@ -5,6 +5,9 @@ url_1: https://www.google.com/search?q=doogie+howser
 url_2: https://www.google.com/search?q=prince+of+persia+game+1989
 url_3: https://www.google.com/search?q=doom+game+1993
 url_4: https://it.wikipedia.org/wiki/Banner_Mania
+url_5: https://es.wikipedia.org/wiki/Pac-Man
+url_6: https://es.wikipedia.org/wiki/Laserdisc
+url_7: https://es.wikipedia.org/wiki/M%C3%B3dem
 ---
 
 <table style="text-align: center; width: auto;">
@@ -17,9 +20,17 @@ url_4: https://it.wikipedia.org/wiki/Banner_Mania
   </tbody>
 </table>
 
-En 1995 un grupo de personas llevaron a mi colegio un par de computadores y realizarón una demostración de lo que podiamos aprender si nuestros padres accedian a pagar un curso de sistemas ... y !!click!! la medicina voló al infinito y más allá. Descubrí al <a target="_blank" href="{{ page.url_2 }}">Principe de persia</a>, a <a target="_blank" href="{{ page.url_3 }}">Doom</a> y <a target="_blank" href="{{ page.url_4 }}">Banner Mania</a> ... ya el resto es historia.     
+En 1995 un grupo de personas llevaron a mi colegio un par de computadores y realizarón una demostración de lo que podiamos aprender si nuestros padres accedian a pagar un curso de sistemas ... y !!click!! la medicina voló al infinito y más allá. Descubrí al <a target="_blank" href="{{ page.url_2 }}">Principe de persia</a>, a <a target="_blank" href="{{ page.url_3 }}">Doom</a> y <a target="_blank" href="{{ page.url_5 }}">PacMan</a> ... ya el resto es historia.     
 
-Doy gracias que descubrí los computadores en la epoca cuando apenas iniciaba todo y tengo el privilegio de a lo largo de mi vida experimentar desde casi cero, cada paso de evolución en los sistemas. Desde el principio donde las pantallas de color beig sólo mostraban letras con MS-DOS, luego se revoluciono todo con windows 3.1, 3.11, 95, NT, 98, 2000, XP, Vista, 7, 8, 8.1, 10.
+Doy gracias que descubrí los computadores en la epoca cuando todo iniciaba y he tenido el privilegio a lo largo de mi vida de experimentar casi de cero cada paso en la innovación de los sistemas operativos, desde cuando las pantallas de color beig sólo mostraban letras con MS-DOS luego saltando a la espectacularidad de las ventanas con windows 3.1 y luego su imparable evolucion con las versiones siguientes: 3.11, 95, NT, 98, 2000, XP, Vista, 7, 8, 8.1, 10.
+
+Toda la vida he sido una persona muy activa, fui Boy Scout (Manada y Tropa), jugador de baloncesto en varios campeonatos regionales, formé parte de grupos juveniles, participe en muchos eventos estudiantiles como bailarin de RAP, escenografo y lunimo-tecnico en un grupo de teatro, recreacionista y hasta intente ser fisiculturista. Tambien pase por todo tipo de experiencias laborales en las que no duraba mucho (Insatalaciones eléctricas en casa nuevas, mesero de restaurante, marqueteria y encuadrenación). Hasta que inicie mi primer emprendimiento con uno de mis mejores amigos de esa epoca, una empresa de pasacalles y pendones pintados a mano cuyas plantillas las lograbamos hacer con nuestros conocimientos en sistemas usando un programa muy conocido en aquel tiempo con el nombre de <a target="_blank" href="{{ page.url_4 }}">Banner Mania</a>.
+
+Fui padre adolecente, sin terminar el bachillerato y en mi cumpleaños numero 18 ya estaba cargando a mi hija con solo tres dias de nacida, tuve que pensar desde muy joven como conseguir dinero para que nunca faltara lo necesario, usé mi primer computador que fue un regalo de una tia para elaborar trabajos, tesis y tareas. 
+
+En un giro inesperado del destino y por una afición innata que fui descubriendo desde las fiestas con amigos del colegio, me dieron la oportunidad de trabajar como Disc Jockey en una discoteca de las más modernas del Oriente Antioqueño, entre vinilos, <a target="_blank" href="{{ page.url_6 }}">laser disc</a>, discos compactos y los VHS desarrollé un gusto enorme por la música y el arte de hacer bailar a grandes grupos de personas. Luego se pudo integrar un computador a las consolas de audio, amplifique eventos, bandas y toda clase de grupos musicales.
+
+Despues de esta etapa quice concentrarme en lo que más me apasionaba, y decidí iniciar mi segundo emprendimiento ... Un "café Internet" que en ese tiempo ninguno existia y el nombre muchos menos. Con 150mil pesos que me dio mi madre alquilé un local el cual adecue con cuatro computadores (el mio, uno que arme con piezas viejas, uno que me prestarón y uno que alquilé) los conecte en una red local y despues de tener todo montado y terminado salí a conseguir la conexión a internet llevandome la gran sorpresa que en esa epoca no existia ningun servicio de banda ancha y lo único disponible era una conexión por <a target="_blank" href="{{ page.url_7 }}">modem</a> con una velocidad máxima de 64kbps, el proyecto "Café Internet" fracasó obligandome a terminar como una academia de garaje (academia extraña, con barra, a media luz y amplificadores de sonido) impartiendo clases de sistemas a niños y adultos.
 
 
  

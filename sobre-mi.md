@@ -10,6 +10,7 @@ url_6: https://es.wikipedia.org/wiki/Laserdisc
 url_7: https://es.wikipedia.org/wiki/M%C3%B3dem
 url_8: https://es.wikipedia.org/wiki/MS-DOS
 url_9: https://es.wikipedia.org/wiki/Windows_3.x
+url_10: https://es.wikipedia.org/wiki/QBASIC
 ---
 
 <table style="text-align: center; width: auto;">
@@ -33,6 +34,8 @@ Fui padre adolecente, sin terminar el bachillerato y en mi cumpleaños numero 18
 En un giro inesperado del destino y por una afición innata que fui descubriendo desde las fiestas con amigos del colegio, me dieron la oportunidad de trabajar como Disc Jockey en una discoteca de las más modernas del Oriente Antioqueño, entre vinilos, <a target="_blank" href="{{ page.url_6 }}">laser disc</a>, discos compactos y los VHS desarrollé un gusto enorme por la música y el arte de hacer bailar a grandes grupos de personas. Luego se pudo integrar un computador a las consolas de audio, amplifique eventos, bandas y toda clase de grupos musicales.
 
 Despues de esta etapa quise concentrarme en lo que más me apasionaba, y decidí iniciar mi segundo emprendimiento ... Un "café Internet" que en ese tiempo ninguno existia y el nombre mucho menos, con 150 mil pesos que me dio mi madre alquilé un local que adecue con cuatro computadores (el mio, uno que arme con piezas viejas, uno que me prestarón y uno que alquilé), despues de tener todo montado y terminado salí a conseguir la conexión a internet llevandome la gran sorpresa que en esa epoca no existia ningun servicio de banda ancha y lo único disponible era una conexión por <a target="_blank" href="{{ page.url_7 }}">modem</a> con una velocidad máxima de 64kbps, el proyecto "Café Internet" fracasó, obligandome a terminar como una academia de garaje (academia extraña, con barra, a media luz y amplificadores de sonido) impartiendo clases de sistemas a niños y adultos.
+
+Aquí fue cuando cree mis primeras dos aplicaciones bien remuneradas, usando el lenguaje de programación <a target="_blank" href="{{ page.url_10 }}">Qbasic</a>, uno consistia en un sistema administrativo para una casa de la cultura (creacion de cursos, grupos y matriculas de alumnos) y el otro sistema para una bilbioteca publica (base de datos de libros por estanteria y categorias). Tambien me volvi famoso por tener una peculiar facilidad para crear expectaculares fondos de escritorio usando la herramienta Microsoft Paint. 
 
 Por estos tiempos uno de mis mejores amigos compro un libro gigante de un sistema operativo super moderno pero complejo de usar y no hablemos de instalar, duramos casi tres semanas durmiendo poco o practicamente nada intentando instalar Linux Red Hat, tres semanas de prueba y error en la época en que el sistema operativo del pinguino no contaba con instaladores ni nada que se le parezca, todo a mano, cosa a cosa solo usando la consola, particiones, configuraciones e instalación de perifericos por separado, nada de "siguiente, siguiente".
 

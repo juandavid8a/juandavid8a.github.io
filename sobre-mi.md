@@ -22,7 +22,7 @@ url_9: https://es.wikipedia.org/wiki/Windows_3.x
   </tbody>
 </table>
 
-En 1995 un grupo de personas llevaron a mi colegio un par de computadores y realizarón una demostración de lo que podiamos aprender si nuestros padres accedian a pagar un curso de sistemas ... y !!click!! la medicina voló al infinito y más allá. Descubrí al <a target="_blank" href="{{ page.url_2 }}">Principe de persia</a>, a <a target="_blank" href="{{ page.url_3 }}">Doom</a> y <a target="_blank" href="{{ page.url_5 }}">PacMan</a> ... ya el resto es historia.     
+En 1995 un grupo de personas llevaron a mi colegio un par de computadores y realizarón una demostración de lo que podiamos aprender si nuestros padres accedian a pagar un curso de sistemas ... y !!click!! la medicina voló al infinito y más allá. Me deslumbre con el <a target="_blank" href="{{ page.url_2 }}">Principe de persia</a>, a <a target="_blank" href="{{ page.url_3 }}">Doom</a> y <a target="_blank" href="{{ page.url_5 }}">PacMan</a>.    
 
 Doy gracias que descubrí los computadores en la epoca cuando todo iniciaba, dandome el privilegio a lo largo de mi vida de experimentar casi de cero cada paso en la innovación de los sistemas operativos, desde cuando las pantallas de color beig sólo mostraban letras con <a target="_blank" href="{{ page.url_8 }}">MS-DOS</a> luego saltando a la espectacularidad de las ventanas con <a target="_blank" href="{{ page.url_9 }}">windows 3.1</a> y luego su imparable evolucion con las versiones siguientes: 3.11, 95, NT, 98, 2000, XP, Vista, 7, 8, 8.1, 10.
 

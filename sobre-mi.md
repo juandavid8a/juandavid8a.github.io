@@ -24,6 +24,11 @@ url_20: https://es.wikipedia.org/wiki/Crisis_financiera_de_2008
 url_21: https://es.wikipedia.org/wiki/Cibercaf%C3%A9
 url_22: https://es.wikipedia.org/wiki/Trading
 url_23: https://youtu.be/_buTrOB9lkA?t=186
+url_24: https://es.wikipedia.org/wiki/Retroexcavadora
+url_25: https://es.wikipedia.org/wiki/Buld%C3%B3cer
+url_26: https://es.wikipedia.org/wiki/Martillo_mec%C3%A1nico
+url_27: https://es.wikipedia.org/wiki/Apisonadora
+url_28: https://es.wikipedia.org/wiki/Hormigonera
 ---
 
 <table style="text-align: center; width: auto;">
@@ -80,8 +85,12 @@ Por otro lado, convencido que las cosas siempre pasan por una razón, agradezco 
 
 Casi tres años sin ejercer en mi profesión y lidiando con el rompimiento de una relación sentimental de 11 años, una vez más tuve que iniciar de cero, me vi obligado por primera ocasión en toda mi vida a tener que crear una hoja de vida y usar una de esas nuevas plataformas virtuales que publican ofertas laborales, durante una semana busque y aplique a varios trabajos disponibles y mientras esperaba respuestas, el destino no había terminado de darme sorpresas. Una clienta del restaurante de mi madre y secretaria de una empresa de construcción, requerían alguien de mucha confianza para reemplazar un almacenista de una obra al que encontraron robando, no tenía ni idea de lo que se trataba ese trabajo, pero si ella creía (sin conocerme) que yo era la persona indicada para ese trabajo, yo no iba a contradecirla y acepte ser almacenista de la construcción de un puente en una importante obra de intercambio vial del Municipio de Rionegro.
 
-La instruccion fue: "ser almacenista es muy simple, tienes un almacen lleno de heramientas que los obreros te van a pedir, registras en una ficha el nombre y al terminar el dia, verificas que el obrero devuelva la herramienta".
+La instrucción fue: "ser almacenista es muy simple, tienes un almacén lleno de herramientas que los obreros te van a pedir, registras en una ficha el nombre y al terminar el dia, verificas que el obrero devuelva la herramienta".
 
-Resulta que era eso y mucho más, inventariar, llevar kardex manual, odenes de compra, ordenes de recepción, alquiler y administración de equipos, maquinaria pesada y lo que más delicado me parecio <a target="_blank" href="{{ page.url_23 }}">llenar las provetas</a> de especímenes cilíndricos de concreto para pruebas de resistencia del material del puente, cumplir el protocolo de creación para que no altere el resultado y llevar a fallar para obtener los datos. 
+Resulta que era eso y mucho más, inventariar, llevar kardex manual, ordenes de compra, órdenes de recepción, alquiler y administración de equipos, maquinaria pesada, cama bajas y lo más delicado: <a target="_blank" href="{{ page.url_23 }}">llenar las probetas</a> de especímenes cilíndricos de concreto para pruebas de resistencia del material del puente, cumplir el protocolo de creación para que no altere el resultado y llevar a fallar para obtener los datos, para este trabajo existe una carrera universitaria, no entiendo como contratan a alguien sin experiencia para esto, pero como todas las experiencias laborales anteriores, agradezco a la vida haberlo puesto en mi camino, aprendí sobre una infinidad de cosas, temas y herramientas. Al hacerme amigo de los conductores de maquinaria pesada tuve la oportunidad de manejar <a target="_blank" href="{{ page.url_24 }}">retroexcavadoras</a>, <a target="_blank" href="{{ page.url_25 }}">bulldozer</a>, <a target="_blank" href="{{ page.url_26 }}">martillos pesados</a>, <a target="_blank" href="{{ page.url_27 }}">apisonadoras ligeras</a> y hasta manipular un <a target="_blank" href="{{ page.url_28 }}">camión hormigonera</a> o más conocido como un "camión mixer"; toda herramienta que debía  gestionar para la obra, primero pasaba por un uso curioso de mis manos.
+
+Nuevamente el destino no solo tenía planeado hacerme pasar por un trabajo extraño, curiosos y exigente; como lo he dicho muchas veces, todo pasa por alguna razón y esta vez era para juntar los caminos del almacenista y la ingeniera de interventoría; el trabajo terminó rápido (mucho menos de un año), regrese a la ciudad de Medellin a las entrevistas de trabajo para encaminar nuevamente mi carrera, inicie rápidamente con una empresa de sistemas y programación que tenían un producto de software para administración de instituciones educativas. Me aloje en la casa de una amiga y luego de un familiar mientras me establecia en mi propio espacio y a la vez con mucha expectativa si el romance que se inició en la obra de construcción era algo pasajero o si iba a trascender.
+
+Luego de un año la relación con la ingeniera de interventoría milagrosa e inexplicablemente continuaba y dábamos un paso importante, compartir un apartamento (al momento de redactar esta parte de la autobiografía llevamos mal contados 12 años juntos); después de este año, me llamaron de una nueva empresa donde me ofrecieron un puesto más creativo, mejor remunerado y donde podría estar cien por ciento concentrado en sistematización de procesos llevarlos a la nube e integrarlos a las páginas web o herramientas web de los clientes; Así que sin dudarlo cambie de empresa.
 
 ... continuara 

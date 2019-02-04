@@ -93,4 +93,4 @@ Nuevamente el destino no solo tenía planeado hacerme pasar por un trabajo extra
 
 Luego de un año la relación con la ingeniera de interventoría milagrosa e inexplicablemente continuaba y dábamos un paso importante, compartir un apartamento (al momento de redactar esta parte de la autobiografía llevamos mal contados 12 años juntos); después de este año, me llamaron de una nueva empresa donde me ofrecieron un puesto más creativo, mejor remunerado y donde podría estar cien por ciento concentrado en sistematización de procesos llevarlos a la nube e integrarlos a las páginas web o herramientas web de los clientes; Así que sin dudarlo cambie de empresa.
 
-... continuara 
+... continuará 

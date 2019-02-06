@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Paso a Paso Instalacion de Laravel por Consola SSH en Servidor UBUNTU 2019"
-description: Comandos de consola para instalar laravel en servidor UBUNTU
+title:  "Instalacion de Laravel SSH en Servidor UBUNTU 2019"
+description: Comandos de consola paso a paso para instalar laravel en servidor UBUNTU
 comments: true
 category: Tutoriales
 tags: Tutoriales ssh Laravel

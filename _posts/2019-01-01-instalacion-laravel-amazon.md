@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "Paso a Paso Instalacion de Laravel en servidor UBUNTU 2019"
-description: Backend y frontend para administración de publicidad en ascensores
+description: Comandos de consola para instalar laravel en servidor UBUNTU
 comments: true
-category: Sistematizaciones
+category: Laravel
 tags: Integraciones Web
 ---
 

@@ -1,3 +1,15 @@
+---
+layout: post
+title:  "Paso a Paso Instalacion de Laravel en servidor UBUNTU 2019"
+description: Backend y frontend para administración de publicidad en ascensores
+comments: true
+category: Sistematizaciones
+tags: Integraciones Web
+---
+
+A continuación especifico linea a linea lo que hay que hacer en la consola SSH para tener en menos de 10 minutos un proyecto Laravel corriendo en un servidor UBUNTU (AWS Amazon Web Service).
+
+En mi canal hay un video del paso a paso: 
 
 ```python
 sudo apt-get update

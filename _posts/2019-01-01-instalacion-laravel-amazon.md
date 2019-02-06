@@ -12,7 +12,7 @@ A continuación especifico linea a linea lo que hay que hacer en la consola SSH 
 
 En <a target="_blank" href="{{ page.youtube }}">mi canal de youtube</a> hay un video del paso a paso: 
 
-```python
+```
 sudo apt-get update
 sudo apt-get install apache2 -y
 echo $USER 

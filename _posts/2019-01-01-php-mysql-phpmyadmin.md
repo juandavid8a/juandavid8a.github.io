@@ -1,4 +1,14 @@
-´´´´
+---
+layout: post
+title:  "Instalación PHP - MYSQL - PHPMYADMIN"
+description: Comandos de consola paso a paso para instalar PHP - MYSQL - PHPMYADMIN
+comments: true
+category: Tutoriales
+tags: Tutoriales PHP MYSQL PHPMYADMIN
+youtube: https://bit.ly/2wSo5iD
+---
+
+´´´
 sudo apt-get install apache2 -y
 sudo apt-get install mysql-server -y
 sudo mysql_secure_installation ()
@@ -19,4 +29,4 @@ sudo nano /usr/share/phpmyadmin/libraries/sql.lib.php
 (count($analyzed_sql_results['select_expr'] == 1)
 //remplazar por
 ((count($analyzed_sql_results['select_expr']) == 1)
-´´´´
+´´´

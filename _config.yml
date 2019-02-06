@@ -10,7 +10,7 @@ relative_permalinks: false
 
 # Setup
 title:            JuanDavid8a
-tagline:          'for($i = 1; $i <= 1000; $i++){ echo "Be Happy"; }'
+tagline:          'for ($i = 1; $i <= 1000; $i++){ echo "Be Happy"; }'
 description:      'Experto en Sistematización de Procesos en la Nube (Test-driven development (TDD), Behavior Driven Development (BDD), PHPunit, Metodologías Ágiles (Scrum), Bitbucket Pipelines (Atlassian), Amazon Web Service Administrator, Control de versiones (GIT), Bases de datos no relacionales (mongoDB), SOAP WebServices (C#), ERP SAP Business One (SDK - UIAPI), TCP server (Sockets)), jugador de PaintBall, Roller Derby, Gomoso de la Robótica, Electrónica y La Tecnología.'
 url:              http://juandavid8a.github.io
 

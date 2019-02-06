@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Sobre mi
+title: Autobiografía
 url_1: https://www.google.com/search?q=doogie+howser
 url_2: https://www.google.com/search?q=prince+of+persia+game+1989
 url_3: https://www.google.com/search?q=doom+game+1993

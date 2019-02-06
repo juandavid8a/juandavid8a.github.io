@@ -7,7 +7,9 @@ category: Tutoriales
 tags: Tutoriales Php Mysql
 youtube: https://bit.ly/2wSo5iD
 ---
-A continuación describo los comandos de consola SSH para instalar en menos de 5 minutos PHP - MYSQL - PHPMYADMIN en un servidor UBUNTU (AWS Amazon Web Services)  
+A continuación describo los comandos de consola SSH para instalar en menos de 5 minutos PHP - MYSQL - PHPMYADMIN en un servidor UBUNTU (AWS Amazon Web Services).
+
+En <a target="_blank" href="{{ page.youtube }}">mi canal de youtube</a> hay un video del paso a paso:
 
 ```
 sudo apt-get install apache2 -y

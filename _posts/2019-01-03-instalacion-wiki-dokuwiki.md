@@ -17,4 +17,5 @@ En <a target="_blank" href="{{ page.youtube }}">mi canal de youtube</a> hay un v
 git clone https://github.com/splitbrain/dokuwiki.git
 sudo chmod -R 755 /dokuwiki
 
+//ejecutar dominio-IP/dokuwiki/install.php
 ```

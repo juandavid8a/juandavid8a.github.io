@@ -15,7 +15,12 @@ En <a target="_blank" href="{{ page.youtube }}">mi canal de youtube</a> hay un v
 
 ```
 git clone https://github.com/splitbrain/dokuwiki.git
-sudo chmod -R 755 /dokuwiki
+sudo chmod -R 755 /dokuwiki/data/
 
 //ejecutar dominio-IP/dokuwiki/install.php
 ```
+
+### Mini-tutorial de manejo 
+1. Cómo crear un pagina nueva
+2. Cómo crear una pagina dentro de una sección
+3. Cómo activar url amigables

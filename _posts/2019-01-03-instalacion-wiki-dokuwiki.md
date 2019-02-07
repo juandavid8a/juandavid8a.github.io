@@ -9,11 +9,12 @@ youtube: https://bit.ly/2wSo5iD
 dokuwiki: https://github.com/splitbrain/dokuwiki
 ---
 
-A continuación describo linea a linea lo que hay que hacer en la consola SSH para tener en menos de 10 minutos un proyecto de <a target="_blank" href="{{ page.dokuwiki }}">documentación WIKI usando DOKUWIKI</a>.
+A continuación describo linea a linea lo que hay que hacer en la consola SSH para tener en menos de 5 minutos un proyecto de <a target="_blank" href="{{ page.dokuwiki }}">documentación WIKI usando DOKUWIKI</a>.
 
 En <a target="_blank" href="{{ page.youtube }}">mi canal de youtube</a> hay un video del paso a paso: 
 
 ```
 git clone https://github.com/splitbrain/dokuwiki.git
+sudo chmod -R 755 /dokuwiki
 
 ```

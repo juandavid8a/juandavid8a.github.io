@@ -6,4 +6,4 @@ comments: true
 category: Página Web
 tags: Web
 ---
-<img src="/public/imgs/proyectos/lumesingenieria.jpg" />
+<img src="/public/imgs/proyectos/lumesIngenieria.jpg" />

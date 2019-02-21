@@ -8,7 +8,7 @@ tags: Integraciones Web
 ---
 <img src="/public/imgs/proyectos/elcinco.png" />
 
-Sistematización de procesos (Backend y Fronend) para el desarrollo de proyectos productivos de carácter asociativo. Se establece encadenamientos productivos, empleando para ello recursos provenientes de individuos e instituciones.
+Sistematización de procesos (Backend y Frontend) para el desarrollo de proyectos productivos de carácter asociativo. Se establece encadenamientos productivos, empleando para ello recursos provenientes de individuos e instituciones.
 
 Tecnologias: Php, Html, Javascript, MySql. Todo como un modulo integrado a un CMS Joomla.
 

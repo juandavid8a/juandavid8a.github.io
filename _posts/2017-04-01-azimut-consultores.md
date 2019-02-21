@@ -10,4 +10,4 @@ tags: Web
 <hr>
 <img src="/public/imgs/proyectos/azimutConsultores2.png" />
 <hr>
-<img src="/public/imgs/proyectos/azimutConsultores3.png" />
+<img src="/public/imgs/proyectos/azimutConsultores3.jpg" />

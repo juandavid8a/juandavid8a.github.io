@@ -20,42 +20,48 @@ Experto en Sistematización de Procesos en la Nube (Test-driven development (TDD
 ## Experiencia Laboral
 
 ### Director Departamento de Desarrollo.
-**Diez Equis S.A.**<br>
+**Diez Equis S.A.**
+<br>
 2017 – actualidad<br>
 Medellin - Colombia<br>
 
 Sistematización de procesos e integración con SAP Business One (AWS, Rackspace Cloud, C#, SOAP, Javascript, PHP, Kubernetes, Docker, MongoDB, TDD, BDD, Laravel, PHPunit, TCP sockets)
 <hr/>
 ### Director Departamento de Desarrollo.
-**Suiche Creativo**<br>
+**Suiche Creativo**
+<br>
 2014 – 2017<br>
 Medellin - Colombia<br>
 
 Sistematización de procesos en la nube, Herramientas web, módulos y componentes joomla, Realidad aumentada, inteligencia artificial y bots para redes sociales.
 <hr/>
 ### Desarrollador Web.
-**Agencia Estratégico Digital**<br>
+**Agencia Estratégico Digital**
+<br>
 2012 – 2014<br>
 Medellin - Colombia<br>
 
 Creación de Herramientas Web y Sistematización de procesos integrados con diversos CMS (Joomla - Wordpress).
 <hr/>
 ### Director Departamento de Desarrollo.
-**Promesas del Fútbol**<br>
+**Promesas del Fútbol**
+<br>
 2009 – 2012<br>
 Medellin - Colombia<br>
 
 Creación de plataforma digital para pruebas antropométricas, tecnicas y fisicas, con informes avanzados basados en somatocartas o somatotipo que permiten la evaluación y selección científica de jugadores de fútbol.
 <hr>
 ### Director Departamento de Desarrollo.
-**Tactica Web**<br>
+**Tactica Web**
+<br>
 2007 – 2009<br>
 Medellin - Colombia<br>
 
 Sistematización de procesos, Herramientas Web, Gestores de Contenido, Javascript, AJAX, HTML, PHP, MYSQL
 <hr>
 ### Director Departamento de Desarrollo.
-**Neon Group**<br>
+**Neon Group**
+<br>
 2006 – 2007<br>
 Medellin - Colombia<br>
 

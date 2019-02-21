@@ -3,7 +3,7 @@ layout: post
 title:  "Lumes Ingenieria"
 description: Página web
 comments: true
-category: Web
+category: Página Web
 tags: Web
 ---
-<img src="/public/imgs/proyectos/lumesingenieria.png" />
+<img src="/public/imgs/proyectos/lumesingenieria.jpg" />

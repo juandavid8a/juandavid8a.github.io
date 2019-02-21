@@ -8,7 +8,7 @@ tags: Integraciones Web
 ---
 <img src="/public/imgs/proyectos/promesas.jpg" />
 
-Vitrina virtual para deportistas de alto rendimiento en Colombia y el mundo. Sistematización de datos antropometricos, pruebas tecnias, fisicas y psicologicas para promoción de futbolistas. 
+Vitrina virtual para deportistas de alto rendimiento en Colombia y el mundo. Sistematización de datos antropometricos, pruebas técnicas, físicas y psicológicas para promoción de futbolistas.
 
 Tecnologias: Html, Javascript, Php, MySql, Bootstrap.
 

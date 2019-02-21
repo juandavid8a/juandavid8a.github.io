@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Página Web Cabayo De Troya"
+title:  "Cabayo De Troya"
 description: Página web para artesanias caballo de troya
 comments: true
 category: Página Web

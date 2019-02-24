@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Instalación Clod9 Laravel 5.7"
-description: Instalación en Clod9 de un sistema Laravel 5.7 y php 7.1
+title:  "Instalación Cloud9 Laravel 5.7"
+description: Instalación en Cloud9 de un sistema Laravel 5.7 y php 7.1
 comments: true
 category: Tutoriales
 tags: Tutoriales Laravel

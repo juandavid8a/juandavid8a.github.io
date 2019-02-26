@@ -4,7 +4,7 @@ title:  "Constructora Latinco S.A."
 description:  Desarrollo de infraestructura, promovemos, diseñamos y construimos proyectos
 comments: true
 category: Página Web
-tags: Web
+tags: Web Integraciones
 ---
 <img src="/public/imgs/proyectos/constructoraLatinco.jpg" />
 <hr>

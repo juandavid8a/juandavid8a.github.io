@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Hoja de vida
-pdf: /public/juandavid8a.pdf
+pdf: /public/HojaDeVida-JuanDavidOchoa.pdf
 linkedin: https://www.linkedin.com/in/juandavid8a
 ---
 <p class="message">

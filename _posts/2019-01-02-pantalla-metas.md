@@ -6,4 +6,4 @@ comments: true
 category: Sistematizaciones
 tags: Raspberry Web Android
 ---
-<img src="/public/imgs/proyectos/pantallaErrores.png" />
+<img src="/public/imgs/proyectos/pantallaMetas.png" />

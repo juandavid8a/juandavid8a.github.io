@@ -4,7 +4,7 @@ title:  "Diez Equis S.A.S. | Venta Externa"
 description: Pagina web y sistema de cotización integrado a SAP BUSINESS ONE
 comments: true
 category: Sistematizaciones
-tags: SapBusinnesOne Web
+tags: SapBusinessOne Web
 ---
 <img src="/public/imgs/proyectos/diezequis5.png" />
 <hr>

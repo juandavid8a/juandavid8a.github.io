@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Constructora Latinco S.A."
-description:  Desarrollo de infraestructura en su ciclo completo: promovemos, diseñamos y construimos proyectos
+description:  Desarrollo de infraestructura, promovemos, diseñamos y construimos proyectos
 comments: true
 category: Página Web
 tags: Web

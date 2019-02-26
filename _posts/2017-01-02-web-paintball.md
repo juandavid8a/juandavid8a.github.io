@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Asociación de jugadores de Paintball TAG36"
+title:  "TAG36 Medellin"
 description: Página web para la asocioación de jugadores de paintball medellin
 comments: true
 category: Página Web

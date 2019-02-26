@@ -7,3 +7,5 @@ category: Sistematizaciones
 tags: Raspberry Web Android
 ---
 <img src="/public/imgs/proyectos/pantallaErrores.png" />
+<hr>
+<img src="/public/imgs/proyectos/diezEquisErrores.png" />

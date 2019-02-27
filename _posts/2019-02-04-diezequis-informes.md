@@ -15,8 +15,6 @@ tags: SapBusinnesOne Web
 <hr>
 <img src="/public/imgs/proyectos/diezEquisInformes3.png" /> 
 <hr>
-<img src="/public/imgs/proyectos/diezEquisInformes4.png" /> 
-<hr>
 <img src="/public/imgs/proyectos/diezEquisInformes5.png" /> 
 <hr>
 <img src="/public/imgs/proyectos/diezEquisInformes6.png" /> 

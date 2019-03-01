@@ -18,6 +18,7 @@ rm -rf ~/.themes/{Arc,Arc-Darker,Arc-Dark}
 
 sudo apt-get install autoconf automake pkg-config libgtk-3-dev
 git clone https://github.com/horst3180/arc-theme --depth 1 && cd arc-theme
+
 ./autogen.sh --prefix=/usr
 sudo make install
 ```

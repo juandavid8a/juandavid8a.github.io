@@ -17,7 +17,8 @@ En <a target="_blank" href="{{ page.youtube }}">mi canal de youtube</a> hay un v
 Es un código rápido para poder manejar menus en joomla sólo con imagenes, esta dividido en dos partes:
 * Recorre los item que contienen la clase "menu-hover" y revisa si el parent tiene la clase "active", osea que ya se le dio clic a un menú, obtiene la url de la imagen y modifica la etiqueta IMG asignandole una nueva url con la imagen que contiene la terminación "-hover" por defecto
 * La segunda parte del codigo reacciona al posicionar el mouse sobre cualquier item del menu y busca automaticamente las imagenes con terminacion "-hover" de cada uno y genera el efecto hover.
-```
+
+```javascript
 imageOver=[];	
 var items = document.getElementsByClassName("menu-hover");
 
@@ -48,7 +49,8 @@ $(".menu-hover").hover(function(){
 Poner clase CSS "menu-hover" en cada menu para que el código sepa sobre cual o cuales menus debe activarse y buscar las imagenes con terminacion "-hover" y generar el efecto.
 
 ### Si es para usar fuera de JOOMLA esta debe ser la estructura:
-```
+
+```html
 <ul class="sp-megamenu-parent menu-fade hidden-sm hidden-xs">
       <li class="sp-menu-item current-item active">
           <a class="menu-hover" href="/web/index.php/nuestra-escencia">

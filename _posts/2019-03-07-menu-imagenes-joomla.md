@@ -7,7 +7,7 @@ category: Tutoriales
 tags: Tutoriales Javascript
 youtube: https://bit.ly/2wSo5iD
 ---
-# javascript-menu-images-joomla
+
 Codigo javascript para manejo de menus en joomla con imagenes (Hover y Active)
 
 En <a target="_blank" href="{{ page.youtube }}">mi canal de youtube</a> hay un video del paso a paso: 

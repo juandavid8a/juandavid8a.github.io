@@ -32,7 +32,7 @@ sudo nano /etc/apache2/sites-available/000-default.conf
 sudo systemctl restart apache2
 sudo apt-add-repository ppa:ondrej/php
 sudo apt-get update
-sudo apt install php7.2 libapache2-mod-php7.2 php7.2-mbstring php7.2-xmlrpc php7.2-soap php7.2-gd php7.2-xml php7.2-cli php7.2-zip -y
+sudo apt install php7.2 libapache2-mod-php7.2 php7.2-mbstring php7.2-xmlrpc php7.2-soap php7.2-gd php7.2-xml php7.2-cli php7.2-zip zip unzip -y
 sudo apt-get install git
 cd /tmp
 wget https://getcomposer.org/composer.phar
@@ -47,13 +47,9 @@ sudo reboot
 cd /var/www/html/
 laravel new aplication-sample
 
-//arreglar error de swap en aws
+//Si no ha configurado la swap
 free -m
 sudo /bin/dd if=/dev/zero of=/var/swap.1 bs=1M count=1024
 sudo /sbin/mkswap /var/swap.1
 sudo /sbin/swapon /var/swap.1
-
-//error en unzip en composer.json
-sudo apt install zip unzip php7.2-zip -y //segun la version de PHP
-
 ```

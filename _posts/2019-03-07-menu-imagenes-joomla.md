@@ -5,7 +5,7 @@ description: Código Javascript para manejar un menú en JOOMLA sólo con imagen
 comments: true
 category: Tutoriales
 tags: Tutoriales Javascript
-youtube: https://bit.ly/2wSo5iD
+youtube: https://youtu.be/2NfTcPnlSpc
 ---
 
 Codigo javascript para manejo de menus en joomla con imagenes (Hover y Active)

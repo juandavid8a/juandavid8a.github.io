@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Diez Equis S.A.S. | Cotización"
+title:  "Diez Equis S.A.S. | Cotización Pagina Web"
 description: Pagina web y sistema de cotización integrado a SAP BUSINESS ONE
 comments: true
 category: Sistematizaciones

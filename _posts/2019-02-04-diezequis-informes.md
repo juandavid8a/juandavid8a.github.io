@@ -9,6 +9,9 @@ tags: SapBusinessOne Web
 <p>Frontend y Backend privado construido sobre Framework Laravel que permite al los usuarios del sistema con roles y privilegios suficientes para visualizar informes (últimos cambios de precios, Alistamientos de bodega para despachos e historicos de venta de los ejecutivos de cuenta).</p>
 > Este sistema es una integración con el ERP SAP BUSINESS ONE instalado en servidor windows privado en la nube y accedido por medio del SDK DIAPI
 
+
+<img src="/public/imgs/proyectos/SapbusinessOne-informes-ArticulosBajaRotacion.png" />
+<hr>
 <img src="/public/imgs/proyectos/diezEquisInformes1.png" />
 <hr>
 <img src="/public/imgs/proyectos/diezEquisInformes2.png" /> 
@@ -18,3 +21,5 @@ tags: SapBusinessOne Web
 <img src="/public/imgs/proyectos/diezEquisInformes5.png" /> 
 <hr>
 <img src="/public/imgs/proyectos/diezEquisInformes6.png" /> 
+<hr>
+<img src="/public/imgs/proyectos/SapbusinessOne-Informes-ActividadesDeLlamada.png" />

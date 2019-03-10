@@ -6,7 +6,7 @@ comments: true
 category: Sistematizaciones
 tags: SapBusinessOne Web
 ---
-<p>Frontend y Backend privado construido sobre Framework Laravel que permite al los empleados de un callcenter atender a los Soicos de Negocio que tiene asigandos.</p>
+<p>Frontend y Backend privado construido sobre Framework Laravel que permite a los empleados de un CallCenter atender a los Soicos de Negocio que tiene asigandos.</p>
 > Este sistema es una integración con el ERP SAP BUSINESS ONE instalado en servidor windows privado en la nube y accedido por medio del SDK DIAPI
 
 <img src="/public/imgs/proyectos/SapbusinessOne-CallCenter-ListaSociosDeNegocio.png" />

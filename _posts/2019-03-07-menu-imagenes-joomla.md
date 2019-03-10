@@ -15,7 +15,7 @@ En <a target="_blank" href="{{ page.youtube }}">mi canal de youtube</a> hay un v
 ![ejemplo menu](https://raw.githubusercontent.com/juandavid8a/javascript-menu-images-joomla/master/menu-images.gif)
 
 Es un código rápido para poder manejar menus en joomla sólo con imagenes, esta dividido en dos partes:
-* Revisamos si hay algun item del menu con submenus y los desHabilitamos (si se quiere que aparezcan solo se bede comentar el IF de los subItem)
+* Revisamos si hay algun item del menu con submenus y los desHabilitamos (si se quiere que aparezcan solo se bede comentar el FOR de los subItem)
 * Recorre los item que contienen la clase "menu-hover" y revisa si el parent tiene la clase "active", osea que ya se le dio clic a un menú, obtiene la url de la imagen y modifica la etiqueta IMG asignandole una nueva url con la imagen que contiene la terminación "-hover" por defecto
 * La segunda parte del codigo reacciona al posicionar el mouse sobre cualquier item del menu y busca automaticamente las imagenes con terminacion "-hover" de cada uno y genera el efecto hover.
 

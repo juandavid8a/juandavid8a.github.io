@@ -15,9 +15,9 @@ Hay tres niveles de mantenimeinto para este problema (Limpieza del cabezal de im
 
 1. Lo primero a revisar el nivel de tinta (no debe estar en el nivel mas bajo), pues lo que vamos a hacer genera un gasto importante de tinta y los manuales dicen que si se queda sin tinta se pueden generar problemas graves al sistema.
 2. Nivel uno: Limpieza del cabezal de impresión Standar (mantenga pulsado el botón Parar (Stop) hasta que la luz de Alarma (Alarm) parpadee 2 veces y, a continuación, suelte el botón.)
-3. Revisar si el problem a esta resuelto con la impresion de un patron de prueba (mantenga pulsado el botón Parar (Stop) hasta que la luz de Alarma (Alarm) parpadee 1 vez y, a continuación, suelte el botón.) 
+3. Revisar si el problema esta resuelto con la impresion de un patron de prueba (mantenga pulsado el botón Parar (Stop) hasta que la luz de Alarma (Alarm) parpadee 1 vez y, a continuación, suelte el botón.) 
 4. Nivel dos: Limpieza del cabezal de impresión a fondo (mantenga pulsado el botón Parar (Stop) hasta que la luz de Alarma (Alarm) parpadee 3 veces y, a continuación, suelte el botón.)
-5. Revisar si el problem a esta resuelto con la impresion de un patron de prueba (mantenga pulsado el botón Parar (Stop) hasta que la luz de Alarma (Alarm) parpadee 1 vez y, a continuación, suelte el botón.)
+5. Revisar si el problema esta resuelto con la impresion de un patron de prueba (mantenga pulsado el botón Parar (Stop) hasta que la luz de Alarma (Alarm) parpadee 1 vez y, a continuación, suelte el botón.)
 6. Nivel tres: Limpieza del cabezal de impresión Profundo (mantenga pulsado el botón Parar (Stop) hasta que la luz de Alarma (Alarm) parpadee 5 veces y, a continuación, suelte el botón.)
 
 Este ultimo nivel es la limpieza más profunda, que más tiempo lleva realizarla y que más tinta consume

@@ -8,7 +8,7 @@ tags: Error VirtualBox
 youtube: https://bit.ly/2wSo5iD
 ---
 
-<p>Dos sencillos pasos para ampiar el disco de virtualbox desde Linux para Windows.</p>
+<p>Dos sencillos pasos para ampliar el disco de virtualbox desde Linux para Windows.</p>
 <p>En <a target="_blank" href="{{ page.youtube }}">mi canal de youtube</a> hay un video del paso a paso: </p>
 
 ```

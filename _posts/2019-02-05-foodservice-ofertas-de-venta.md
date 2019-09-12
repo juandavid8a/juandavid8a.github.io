@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Diez Equis S.A.S. | Ofertas de venta - CallCenter"
+title:  "FoodService | Ofertas de venta - CallCenter"
 description: Pagina web y sistema de administración Ofertas de venta para un Callcenter integrado a SAP BUSINESS ONE
 comments: true
 category: Sistematizaciones

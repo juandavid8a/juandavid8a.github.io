@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Diez Equis S.A.S. | Backend"
+title:  "FoodService S.A.S. | Backend"
 description: Pagina web y sistema de cotización integrado a SAP BUSINESS ONE
 comments: true
 category: Sistematizaciones

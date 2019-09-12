@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "FoodService S.A.S. | Backend"
+title:  "FoodService | Backend"
 description: Pagina web y sistema de cotización integrado a SAP BUSINESS ONE
 comments: true
 category: Sistematizaciones

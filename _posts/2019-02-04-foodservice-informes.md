@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Diez Equis S.A.S. | Informes"
+title:  "FoodService | Informes"
 description: Pagina web y sistema de informes integrado a SAP BUSINESS ONE
 comments: true
 category: Sistematizaciones

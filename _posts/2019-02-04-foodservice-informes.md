@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "FoodService | Informes"
+title:  "Sap Business One | Informes"
 description: Pagina web y sistema de informes integrado a SAP BUSINESS ONE
 comments: true
 category: Sistematizaciones
@@ -12,14 +12,14 @@ tags: SapBusinessOne Web
 
 <img src="/public/imgs/proyectos/SapbusinessOne-informes-ArticulosBajaRotacion.png" />
 <hr>
-<img src="/public/imgs/proyectos/diezEquisInformes1.png" />
+<img src="/public/imgs/proyectos/SapbusinessOne-Informes1.png" />
 <hr>
-<img src="/public/imgs/proyectos/diezEquisInformes2.png" /> 
+<img src="/public/imgs/proyectos/SapbusinessOne-Informes2.png" /> 
 <hr>
-<img src="/public/imgs/proyectos/diezEquisInformes3.png" /> 
+<img src="/public/imgs/proyectos/SapbusinessOne-Informes3.png" /> 
 <hr>
-<img src="/public/imgs/proyectos/diezEquisInformes5.png" /> 
+<img src="/public/imgs/proyectos/SapbusinessOne-Informes5.png" /> 
 <hr>
-<img src="/public/imgs/proyectos/diezEquisInformes6.png" /> 
+<img src="/public/imgs/proyectos/SapbusinessOne-Informes6.png" /> 
 <hr>
 <img src="/public/imgs/proyectos/SapbusinessOne-Informes-ActividadesDeLlamada.png" />

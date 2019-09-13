@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "FoodService S.A.S. | Cotización Pagina Web"
+title:  "FoodService | Cotización Pagina Web"
 description: Pagina web y sistema de cotización integrado a SAP BUSINESS ONE
 comments: true
 category: Sistematizaciones

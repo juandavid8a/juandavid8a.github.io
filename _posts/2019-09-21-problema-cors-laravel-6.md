@@ -24,4 +24,9 @@ Barryvdh\Cors\ServiceProvider::class,
 
 //ejecutamos
 php artisan vendor:publish --provider="Barryvdh\Cors\ServiceProvider"
+
+//opcional agregar la linea en el archivo "App\Http\Middleware\VerifyCsrfToken"
+protected $except = [
+    'api/*'
+];
 ```

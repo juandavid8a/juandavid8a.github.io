@@ -5,7 +5,7 @@ description: Comandos de consola paso a paso para instalar laravel en servidor U
 comments: true
 category: Tutoriales
 tags: Tutoriales Laravel
-youtube: https://bit.ly/2wSo5iD
+youtube: https://www.youtube.com/watch?v=nExuiPqHkVA
 ---
 
 A continuación describo linea a linea lo que hay que hacer en la consola SSH para tener en menos de 10 minutos un proyecto Laravel corriendo en un servidor UBUNTU (AWS Amazon Web Services).

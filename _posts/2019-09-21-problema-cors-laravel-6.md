@@ -16,16 +16,19 @@ En <a target="_blank" href="{{ page.youtube }}">mi canal de youtube</a> hay un v
 //Instalamos
 composer require barryvdh/laravel-cors
 
-//Agregamos esta linea al archivo config/app.php en el array de providers
+//Agregamos esta linea al archivo config/app.php
+//en el array de providers
 Barryvdh\Cors\ServiceProvider::class,
 
-//Agregamos esta linea al archivo app/Http/Kernel.php en "protected $middleware"
+//Agregamos esta linea al archivo app/Http/Kernel.php
+//en "protected $middleware"
 \Barryvdh\Cors\HandleCors::class,
 
 //ejecutamos
 php artisan vendor:publish --provider="Barryvdh\Cors\ServiceProvider"
 
-//opcional agregar la linea en el archivo "App\Http\Middleware\VerifyCsrfToken"
+//opcional agregar la linea
+//en el archivo "App\Http\Middleware\VerifyCsrfToken"
 protected $except = [
     'api/*'
 ];

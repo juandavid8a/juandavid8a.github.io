@@ -15,6 +15,9 @@ En <a target="_blank" href="{{ page.youtube }}">Esta lista de reproduccón</a> h
 //Navegador web onion TORCH
 http://xmh57jrzrnw6insl.onion/
 
+//Navegador we onion NOT EVIL
+http://hss3uro2hsxfogfq.onion/
+
 //Intercambio anonimo de archivos BLACK CLOUD
 http://bcloud2suoza3ybr.onion/
 
@@ -26,4 +29,13 @@ http://jgzvkisiov642jlc.onion/
 
 //Servicio de Hosting 
 http://dhosting4okcs22v.onion/
+
+//Chat con estraños
+http://tetatl6umgbmtv27.onion/
+
+//Url de facebook accesible desde deepweb
+https://www.facebookcorewwwi.onion/
+
+//Email TORBOX
+http://torbox3uiot6wchz.onion/
 ```

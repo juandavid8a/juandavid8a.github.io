@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Enlaces curiosos de la internet y la deepweb"
+title:  "Enlaces curiosos de la Internet y la DeepWeb"
 description: Recopilación de sitios web, herramientas o simplemente cosas curiosas de la red
 comments: true
 category: La Red

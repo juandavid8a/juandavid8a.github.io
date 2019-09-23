@@ -18,8 +18,6 @@ tags: SapBusinessOne Web
 <hr>
 <img src="/public/imgs/proyectos/SapbusinessOne-Informes3.png" /> 
 <hr>
-<img src="/public/imgs/proyectos/SapbusinessOne-Informes5.png" /> 
-<hr>
 <img src="/public/imgs/proyectos/SapbusinessOne-Informes6.png" /> 
 <hr>
 <img src="/public/imgs/proyectos/SapbusinessOne-Informes-ActividadesDeLlamada.png" />

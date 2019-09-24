@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Codigo C# para encriptar codigos de factura Cadena"
+title:  "Codigo C# para encriptar codigos de facturas electronicas de Cadena"
 description: Cómo crear facilmente el codigo de encriptación y poder descargar facturas de Cadena
 comments: true
 category: Tutoriales
@@ -11,7 +11,7 @@ Este tutorial es un código muy simple para encriptar los numeros de facturas el
 
 En <a target="_blank" href="{{ page.youtube }}">mi canal de youtube</a> hay un video del paso a paso:
 
-```PHP
+```C#
 private static readonly int tamanyoClave = 32;
 private static readonly int tamanyoVector = 16;
 // Define la palabra clave para el cifrado y

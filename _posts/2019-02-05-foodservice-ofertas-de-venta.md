@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Sap Business One | Ofertas de venta - CallCenter"
+title:  "Sap Business One | Ofertas de Venta"
 description: Pagina web y sistema de administración Ofertas de venta para un Callcenter integrado a SAP BUSINESS ONE
 comments: true
 category: Sistematizaciones

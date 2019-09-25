@@ -20,9 +20,17 @@ Experto en Sistematización de Procesos en la Nube (Test-driven development (TDD
 ## Experiencia Laboral
 
 ### Director Departamento de Desarrollo.
+**Misión Empresarial**
+<br>
+2019 – actualidad<br>
+Medellin - Colombia<br>
+
+Sistematización de procesos e integración con ERP Novasoft en .NET CORE (Stored Procedure SQL, C#, Javascript, API-REST, Swagger, GLPI, Scraping, HTML5, Bootstrap.
+<hr/>
+### Director Departamento de Desarrollo.
 **Diez Equis S.A.**
 <br>
-2017 – actualidad<br>
+2017 – 2019<br>
 Medellin - Colombia<br>
 
 Sistematización de procesos e integración con SAP Business One (AWS, Rackspace Cloud, C#, SOAP, Javascript, PHP, Kubernetes, Docker, MongoDB, TDD, BDD, Laravel, PHPunit, TCP sockets)

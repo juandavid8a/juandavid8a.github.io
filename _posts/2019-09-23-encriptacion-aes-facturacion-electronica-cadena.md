@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Codigo C# para encriptar codigos de facturas electronicas de Cadena"
+title:  "Codigo C# para encriptar en AES facturas electrónicas"
 description: Cómo crear facilmente el codigo de encriptación y poder descargar facturas de Cadena
 comments: true
 category: Tutoriales
 tags: Tutoriales c#
 youtube: https://youtu.be/Sp00ZqfBnM4
 ---
-Este tutorial es un código muy simple para encriptar los numeros de facturas electronicas y poderlas bajar en PDF desde la plataforma de CADENA
+Este tutorial es un código muy simple para encriptar los números de facturas electrónicas y poderlas bajar en PDF desde la plataforma de CADENA
 
 En <a target="_blank" href="{{ page.youtube }}">mi canal de youtube</a> hay un video del paso a paso:
 

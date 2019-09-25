@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Codigo C# para encriptar en AES facturas electrónicas"
-description: Cómo crear facilmente el codigo de encriptación y poder descargar facturas de Cadena
+title:  "Encriptación factura electrónica AES"
+description: Cómo crear facilmente el código de encriptación y poder descargar facturas de Cadena
 comments: true
 category: Tutoriales
 tags: Tutoriales c#

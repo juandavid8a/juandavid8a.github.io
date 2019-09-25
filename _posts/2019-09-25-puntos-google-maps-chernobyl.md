@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Puntos curiosos en google maps en Chernobyl"
+title:  "Puntos curiosos en google maps de Chernobyl"
 description: Listado de puntos en google maps sobre sitios curiosos en Chenobyl
 comments: true
 category: La Red

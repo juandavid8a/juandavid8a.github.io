@@ -15,6 +15,7 @@ En <a target="_blank" href="{{ page.youtube }}">mi canal de youtube</a> hay un v
 //Hospital Unit Number 126
 https://goo.gl/maps/EBvNcwCj7G4xjy5p9
 https://goo.gl/maps/25tidTmLVq76DmxUA
+https://goo.gl/maps/kQvS2UhXsc2AA5os7
 
 //El "Pájaro Carpintero Ruso" ("Russian Woodpecker")
 https://goo.gl/maps/9N4XHV6cH8tfHS4m7

@@ -37,4 +37,7 @@ https://goo.gl/maps/1Xp299MbuYng2rHD9
 
 //Estadio
 https://goo.gl/maps/CXevmEM1qDrkGvx3A
+
+//Planta vista aerea
+https://goo.gl/maps/1PhNz6zr94rzmW8u6
 ```

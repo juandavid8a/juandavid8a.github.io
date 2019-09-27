@@ -31,4 +31,10 @@ https://goo.gl/maps/VvuEfgAUpPkzwwwt5
 
 //Supuestas manchas de sangre en edificios
 https://goo.gl/maps/2yUSzsvBfusYbt2J9
+
+//Pripiat vista aerea
+https://goo.gl/maps/1Xp299MbuYng2rHD9
+
+//Estadio
+https://goo.gl/maps/CXevmEM1qDrkGvx3A
 ```

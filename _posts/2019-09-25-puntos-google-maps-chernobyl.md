@@ -12,6 +12,9 @@ Recopilación de puntos en google maps sobre sitios curiosos dentro de Chernobyl
 En <a target="_blank" href="{{ page.youtube }}">mi canal de youtube</a> hay un video del paso a paso:
 
 ```PHP
+//Hospital Unit Number 126
+https://goo.gl/maps/EBvNcwCj7G4xjy5p9
+
 //El "Pájaro Carpintero Ruso" ("Russian Woodpecker")
 https://goo.gl/maps/9N4XHV6cH8tfHS4m7
 

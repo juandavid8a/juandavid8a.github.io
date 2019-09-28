@@ -16,6 +16,8 @@ La solución es muy rápida, pues cuenta solo con dos pasos.
 En <a target="_blank" href="{{ page.youtube }}">mi canal de youtube</a> hay un video del paso a paso:
 
 ```PHP
+Windows Registry Editor Version 5.00
+
 [HKEY_CURRENT_USER\Software\DigitalPersona\Applications\OTAppSettings]
 "ShowTrainingPrompt"=dword:00000000
 

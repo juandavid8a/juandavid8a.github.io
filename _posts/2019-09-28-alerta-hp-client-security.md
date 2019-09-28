@@ -5,6 +5,7 @@ description: Quitar | Desactivar alerta de HP Client Security
 comments: true
 category: Tutoriales
 tags: Tutoriales Windows
+youtube: https://youtu.be/fp5xfIOVwR8
 ---
 Paso a paso para lograr Quitar | Desactivar alerta de HP Client Security:
 Al instalar todos los drivers en un portatil HP necesarios para activar la huella digital y poder iniciar sesión sin necesidad de escribir una contraseña ... empieza a salir un molesto mensaje de alerta que hasta el día en que escribo este post, no existe manera de quitarlo por configuración. 

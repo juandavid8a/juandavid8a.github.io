@@ -27,6 +27,9 @@ http://app.docm.co/prod/Dmservices/Utilities.svc/GetTRM
 //Pagina llena de juegos retro online
 https://classicreload.com/
 
+//Navegador minador de bitcoin
+https://cryptotab.net/es/
+
 //Navegador web onion TORCH
 http://xmh57jrzrnw6insl.onion/
 
@@ -35,6 +38,9 @@ http://hss3uro2hsxfogfq.onion/
 
 //Email TORBOX
 http://torbox3uiot6wchz.onion/
+
+//Email SecMail
+http://secmailw453j7piv.onion
 
 //Intercambio anonimo de archivos BLACK CLOUD
 http://bcloud2suoza3ybr.onion/
@@ -60,6 +66,6 @@ http://binario5yvaed5ie.onion/
 //Billetera bitcoin
 http://s7a4rvc6425y72d2.onion/es/
 
-//Navegador minador de bitcoin
-https://cryptotab.net/es/
+//Hidden Answers 
+http://answerszuvs3gg2l64e6hmnryudl5zgrmwm3vh65hzszdghblddvfiqd.onion/
 ```

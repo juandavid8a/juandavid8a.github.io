@@ -56,4 +56,10 @@ https://www.facebookcorewwwi.onion/
 
 //Blog EL BINARIO
 http://binario5yvaed5ie.onion/
+
+//Billetera bitcoin
+http://s7a4rvc6425y72d2.onion/es/
+
+//Navegador minador de bitcoin
+https://cryptotab.net/es/
 ```

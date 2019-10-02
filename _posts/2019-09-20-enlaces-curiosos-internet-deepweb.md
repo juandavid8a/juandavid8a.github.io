@@ -12,18 +12,6 @@ Recopilación de sitios web, herramientas o simplemente cosas curiosas de la red
 En <a target="_blank" href="{{ page.youtube }}">Esta lista de reproduccón</a> hay más información.
 
 ```PHP
-//Recopilación de emisoras online del mundo
-https://radio.garden/
-
-//WINAMP online
-https://webamp.org/
-
-//URL API banco de la republica TRM
-http://app.docm.co/prod/Dmservices/Utilities.svc/GetTRM
-
-//Pagina llena de juegos retro online
-https://classicreload.com/
-
 //Capitalización de las criptomonedas
 https://coinmarketcap.com/
 
@@ -74,4 +62,19 @@ http://binario5yvaed5ie.onion/
 
 //Hidden Answers 
 http://answerszuvs3gg2l64e6hmnryudl5zgrmwm3vh65hzszdghblddvfiqd.onion/
+
+//Recopilación de emisoras online del mundo
+https://radio.garden/
+
+//WINAMP online
+https://webamp.org/
+
+//URL API banco de la republica TRM
+http://app.docm.co/prod/Dmservices/Utilities.svc/GetTRM
+
+//hosting de imagenes
+https://imgur.com/
+
+//Pagina llena de juegos retro online
+https://classicreload.com/
 ```

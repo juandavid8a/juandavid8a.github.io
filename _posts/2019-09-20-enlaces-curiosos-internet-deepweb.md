@@ -18,17 +18,23 @@ https://radio.garden/
 //WINAMP online
 https://webamp.org/
 
-//Capitalización de las criptomonedas
-https://coinmarketcap.com/
-
 //URL API banco de la republica TRM
 http://app.docm.co/prod/Dmservices/Utilities.svc/GetTRM
 
 //Pagina llena de juegos retro online
 https://classicreload.com/
 
+//Capitalización de las criptomonedas
+https://coinmarketcap.com/
+
 //Navegador minador de bitcoin
 https://cryptotab.net/es/
+
+//Compra - venta bitcoin
+https://www.coinsenda.com/
+
+//Billetera bitcoin
+http://s7a4rvc6425y72d2.onion/es/
 
 //Navegador web onion TORCH
 http://xmh57jrzrnw6insl.onion/
@@ -65,9 +71,6 @@ https://www.facebookcorewwwi.onion/
 
 //Blog EL BINARIO
 http://binario5yvaed5ie.onion/
-
-//Billetera bitcoin
-http://s7a4rvc6425y72d2.onion/es/
 
 //Hidden Answers 
 http://answerszuvs3gg2l64e6hmnryudl5zgrmwm3vh65hzszdghblddvfiqd.onion/

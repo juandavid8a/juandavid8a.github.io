@@ -24,6 +24,9 @@ https://www.coinsenda.com/
 //Billetera bitcoin
 http://s7a4rvc6425y72d2.onion/es/
 
+//Mapa mundial de negocios que aceptan bitcoin
+https://coinmap.org/
+
 //Navegador web onion TORCH
 http://xmh57jrzrnw6insl.onion/
 

@@ -51,9 +51,6 @@ http://s6cco2jylmxqcdeh.onion
 //Servidor de Email ONIONMAIL
 http://jgzvkisiov642jlc.onion/
 
-//Servicio de Hosting 
-http://dhosting4okcs22v.onion/
-
 //Chat con estraños
 http://tetatl6umgbmtv27.onion/
 

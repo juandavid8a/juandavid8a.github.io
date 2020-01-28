@@ -42,6 +42,9 @@ http://torbox3uiot6wchz.onion/
 //Email SecMail
 http://secmailw453j7piv.onion
 
+//wordpress
+http://torpress2sarn7xw.onion
+
 //Intercambio anonimo de archivos BLACK CLOUD
 http://bcloud2suoza3ybr.onion/
 

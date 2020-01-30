@@ -45,6 +45,9 @@ http://secmailw453j7piv.onion
 //wordpress
 http://torpress2sarn7xw.onion
 
+//Free Hosting
+http://fhostingineiwjg6cppciac2bemu42nwsupvvisihnczinok362qfrqd.onion
+
 //Intercambio anonimo de archivos BLACK CLOUD
 http://bcloud2suoza3ybr.onion/
 

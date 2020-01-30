@@ -46,6 +46,7 @@ http://secmailw453j7piv.onion
 http://torpress2sarn7xw.onion
 
 //Free Hosting
+http://dhosting4okcs22v.onion/
 http://fhostingineiwjg6cppciac2bemu42nwsupvvisihnczinok362qfrqd.onion
 
 //Intercambio anonimo de archivos BLACK CLOUD

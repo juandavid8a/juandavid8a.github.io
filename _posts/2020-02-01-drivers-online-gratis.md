@@ -3,8 +3,8 @@ layout: post
 title:  "Cómo descargar e instalar drivers de un computador facil, rápido y gratis"
 description: Cómo podemos descargar todos los drivers de un computador fácil, rápido y totalmente gratis  
 comments: true
-category: Tutoriales
-tags: Tutoriales Error
+category: Tutoriales Error
+tags: Tutoriales Error Windows
 url: https://driverpack.io/es
 youtube: https://youtu.be/fp5xfIOVwR8
 ---

@@ -7,7 +7,8 @@ category: Tutoriales
 tags: Tutoriales Laravel Error
 youtube: https://youtu.be/CDEaBtEeVwM
 ---
-Este tutorial es la actualización de un post anterior que ya no funciona ya que la libreria barryvdh/laravel-cors no esta disponible
+Este tutorial es la actualización de un post anterior que ya no funciona ya que la libreria barryvdh/laravel-cors no esta disponible.
+
 A continuación doy una solución rápida al problema Access-Control-Allow-Origin - CORS en Laravel 6 que sucede por razones de seguridad, los exploradores restringen las solicitudes HTTP de origen cruzado iniciadas dentro de un script.
 
 En <a target="_blank" href="{{ page.youtube }}">mi canal de youtube</a> hay un video del paso a paso:

@@ -5,7 +5,7 @@ description: Cómo arreglar dependencias NPM package.json
 comments: true
 category: Tutoriales
 tags: Tutoriales React
-youtube: https://youtu.be/CDEaBtEeVwM
+youtube: https://youtu.be/ut9QZQX2_as
 ---
 Paso a paso para arreglar las dependencias registradas en el package.json y poder correr los proyectos correctamente
 

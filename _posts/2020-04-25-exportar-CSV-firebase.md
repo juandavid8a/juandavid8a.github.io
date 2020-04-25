@@ -43,7 +43,7 @@ function writeToFirestore(records) {
   const batchCommits = [];
   let batch = db.batch();
   records.forEach((record, i) => {
-    var docRef = db.collection('rainfall').doc(record.SUBDIVISION);
+    var docRef = db.collection('fasecolda').doc(record.Codigo);
     batch.set(docRef, record);
     if ((i + 1) % 500 === 0) {
       console.log(`Writing record ${i + 1}`);

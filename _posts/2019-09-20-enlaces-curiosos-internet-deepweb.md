@@ -70,6 +70,9 @@ http://binario5yvaed5ie.onion/
 //Hidden Answers 
 http://answerszuvs3gg2l64e6hmnryudl5zgrmwm3vh65hzszdghblddvfiqd.onion/
 
+//radio
+http://76qugh5bey5gum7l.onion/
+
 //Recopilación de emisoras online del mundo
 https://radio.garden/
 

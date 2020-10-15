@@ -11,3 +11,9 @@ Paso a paso para solucionar el problema de pantalla negra de la aplicación OBS 
 
 En <a target="_blank" href="{{ page.youtube }}">mi canal de youtube</a> hay un video del paso a paso:
 
+1. Asegurarse que tiene los Drivers en la ultima versión
+2. Configurar el panel de control de Nvidia
+3. Agregrar OBS studio y poner graficos integrados
+4. Entrar a configuracion de pantalla
+5. Entrar a configuracion de graficos
+6. Agregar OBS studio y poner ahorro de energia

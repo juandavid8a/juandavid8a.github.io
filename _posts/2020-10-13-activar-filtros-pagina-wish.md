@@ -3,7 +3,7 @@ layout: post
 title:  "Cómo activar filtros en WISH"
 description: Cómo activar filtros en pagina de WISH
 comments: true
-category: Trucos
+category: Tutoriales
 tags: Trucos
 youtube: https://youtu.be/07tvORy7cOw
 ---

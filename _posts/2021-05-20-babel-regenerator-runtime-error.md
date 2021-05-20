@@ -7,7 +7,7 @@ category: Tutoriales
 tags: Tutoriales
 youtube: https://youtu.be/CDEaBtEeVwM
 ---
-Un par de lineas necesarias para solucionar el error de node.js (ReferenceError: regeneratorRuntime is not defined) que se presenta al subir la aplicacion a Heroku.
+Un par de lineas necesarias para solucionar el error de node.js (ReferenceError: regeneratorRuntime is not defined) que se presenta cuando se usa Babel y despues de subir la aplicacion a Heroku.
 
 En <a target="_blank" href="{{ page.youtube }}">mi canal de youtube</a> hay un video del paso a paso:
 

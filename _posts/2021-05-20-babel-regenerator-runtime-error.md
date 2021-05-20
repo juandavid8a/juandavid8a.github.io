@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Cómo solucionar regenerator runtime error nodejs"
-description: Cómo solucionar ReferenceError: regeneratorRuntime is not defined en Heroku 
+description: Cómo solucionar ReferenceError regeneratorRuntime is not defined en Heroku 
 comments: true
 category: Tutoriales
 tags: Tutoriales

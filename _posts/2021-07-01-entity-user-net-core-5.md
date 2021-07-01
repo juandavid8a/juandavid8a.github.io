@@ -13,17 +13,17 @@ En <a target="_blank" href="{{ page.youtube }}">mi canal de youtube</a> hay un v
 
 1. Crear la carpeta Models
 2. Crear el modelo: ApplicationUser
-```PHP
-    public class ApplicationUser : IdentityUser
-    {
-    }
+```C#
+public class ApplicationUser : IdentityUser
+{
+}
 ```
 3. Crear un modelo de prueba
 4. Crear un controlador de prueba para el modelo de prueba
 5. Renombrar el DbContext por: ApplicationDbContext
 6. Actualizar el DbContext
 ```PHP
-    : IdentityDbContext<ApplicationUser>
+: IdentityDbContext<ApplicationUser>
 ```
 7. Actualizar el ConnectionString
 8. Actualizar dependencias

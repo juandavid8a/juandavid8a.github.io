@@ -30,7 +30,8 @@ public class ApplicationUser : IdentityUser
 9. Crear migracion
 10. Actualizar base de datos
 11. Crear modelo: RegisterModel
-```PHP
+
+```C#
 [Required(ErrorMessage ="User Name is required")]
 public int Usemane { get; set; }
 
@@ -41,14 +42,17 @@ public string Email { get; set; }
 [Required(ErrorMessage = "Password is required")]
 public string Password { get; set; }
 ```
-12. Crear modelo: LoginModel 
-```PHP
+
+12. Crear modelo: LoginModel
+
+```C#
 [Required(ErrorMessage = "User Name is required")]
 public string Username { get; set; }
 
 [Required(ErrorMessage = "Password is required")]
 public string Password { get; set; }
 ```
+
 13. Crear el controlador: AccountController
 14. Agregar el constructor al controlador
 ```PHP

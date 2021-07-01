@@ -21,7 +21,7 @@ En <a target="_blank" href="{{ page.youtube }}">mi canal de youtube</a> hay un v
 
 3. Crear un modelo de prueba
 4. Crear un controlador de prueba para el modelo de prueba
-5. Crear un DbContext llamado ApplicationDbContext
+5. Renombrar el DbContext por ApplicationDbContext
 6. Actualizar el DbContext
 ```PHP
     : IdentityDbContext<ApplicationUser>

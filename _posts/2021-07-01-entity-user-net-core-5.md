@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Cómo instalar service entityUser en NetCore 5"
+title:  "Cómo instalar entityUser service en NetCore 5"
 description: Cómo instalar service entityUser en NetCore 5
 comments: true
 category: Tutoriales
 tags: Tutoriales Trucos
 youtube: https://youtu.be/CDEaBtEeVwM
 ---
-Paso a paso para instalar y usar el servicio entityUser que trae por defecto .Net Core 5
+Paso a paso para instalar el servicio entityUser que trae por defecto .Net Core 5
 
 En <a target="_blank" href="{{ page.youtube }}">mi canal de youtube</a> hay un video del paso a paso:
 

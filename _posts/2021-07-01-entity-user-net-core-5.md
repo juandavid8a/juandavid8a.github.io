@@ -50,7 +50,7 @@ public string Username { get; set; }
 public string Password { get; set; }
 ```
 13. Crear el controlador: AccountController
-14. Agregar el constructor
+14. Agregar el constructor al controlador
 ```PHP
 private readonly UserManager<ApplicationUser> userManager;
 private readonly RoleManager<IdentityRole> roleManager;
@@ -63,7 +63,7 @@ public AccountController(UserManager<ApplicationUser> userManager, RoleManager<I
     _configuration = configuration;
 }
 ```
-15. Agregar el metodo registrar
+15. Agregar el metodo registrar dentro del controlador
 ```PHP
 [HttpPost]
 [Route("register")]
@@ -86,7 +86,7 @@ public async Task<IActionResult> Register([FromBody] RegisterModel model)
     return Ok(new Response { Status = "Success", Message = "User created successfully!" });
 }
 ```
-16. Agregar en metodo login
+16. Agregar en metodo login dentro del controlador
 ```PHP
 [HttpPost]
 [Route("login")]
@@ -127,7 +127,7 @@ public async Task<IActionResult> Login([FromBody] LoginModel model)
     return Unauthorized();
 }
 ```
-17. Agregamos los servicios
+17. Agregamos los servicios en startup
 ```PHP
 // For Identity
 services.AddIdentity<ApplicationUser, IdentityRole>()
@@ -157,7 +157,7 @@ services.AddAuthentication(options =>
     };
 });
 ```
-18. Actualizamos el servicio de Swagger
+18. Actualizamos el servicio de Swagger en startup
 ```PHP
 services.AddSwaggerGen(swagger =>
 {
@@ -194,7 +194,7 @@ services.AddSwaggerGen(swagger =>
     });
 });
 ```
-19. Agregamos las aplicaciones
+19. Agregamos las aplicaciones en startup
 ```PHP
 app.UseAuthentication();
 app.UseAuthorization();

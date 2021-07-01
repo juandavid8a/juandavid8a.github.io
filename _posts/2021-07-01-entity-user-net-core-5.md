@@ -22,9 +22,11 @@ public class ApplicationUser : IdentityUser
 4. Crear un controlador de prueba para el modelo de prueba
 5. Renombrar el DbContext por: ApplicationDbContext
 6. Actualizar el DbContext
-```PHP
+
+```C#
 : IdentityDbContext<ApplicationUser>
 ```
+
 7. Actualizar el ConnectionString
 8. Actualizar dependencias
 9. Crear migracion
@@ -55,7 +57,8 @@ public string Password { get; set; }
 
 13. Crear el controlador: AccountController
 14. Agregar el constructor al controlador
-```PHP
+
+```C#
 private readonly UserManager<ApplicationUser> userManager;
 private readonly RoleManager<IdentityRole> roleManager;
 private readonly IConfiguration _configuration;
@@ -67,8 +70,10 @@ public AccountController(UserManager<ApplicationUser> userManager, RoleManager<I
     _configuration = configuration;
 }
 ```
+
 15. Agregar el metodo registrar dentro del controlador
-```PHP
+
+```C#
 [HttpPost]
 [Route("register")]
 public async Task<IActionResult> Register([FromBody] RegisterModel model)
@@ -90,8 +95,10 @@ public async Task<IActionResult> Register([FromBody] RegisterModel model)
     return Ok(new Response { Status = "Success", Message = "User created successfully!" });
 }
 ```
+
 16. Agregar en metodo login dentro del controlador
-```PHP
+
+```C#
 [HttpPost]
 [Route("login")]
 public async Task<IActionResult> Login([FromBody] LoginModel model)
@@ -131,8 +138,10 @@ public async Task<IActionResult> Login([FromBody] LoginModel model)
     return Unauthorized();
 }
 ```
+
 17. Agregamos los servicios en startup
-```PHP
+
+```C#
 // For Identity
 services.AddIdentity<ApplicationUser, IdentityRole>()
 .AddEntityFrameworkStores<ApplicationDbContext>()
@@ -161,8 +170,10 @@ services.AddAuthentication(options =>
     };
 });
 ```
+
 18. Actualizamos el servicio de Swagger en startup
-```PHP
+
+```C#
 services.AddSwaggerGen(swagger =>
 {
     //This is to generate the Default UI of Swagger Documentation
@@ -198,13 +209,17 @@ services.AddSwaggerGen(swagger =>
     });
 });
 ```
+
 19. Agregamos las aplicaciones en startup
-```PHP
+
+```C#
 app.UseAuthentication();
 app.UseAuthorization();
 ```
+
 20. Agregamos al: appsettings
-```PHP
+
+```C#
 "JWT": {
   "SecretKey": "LJLKSFJYEWIYEWBBLKASJDASDASDTWEBNVASNBDVCAS",
   "ValidAudience": "https://localhost:44324",

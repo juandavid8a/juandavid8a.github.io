@@ -226,3 +226,4 @@ app.UseAuthorization();
   "ValidIssuer": "https://localhost:44324"
 }
 ```
+- Proteger los metodos con: ["Authorize"]

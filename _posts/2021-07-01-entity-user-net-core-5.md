@@ -35,7 +35,7 @@ public class ApplicationUser : IdentityUser
 
 ```C#
 [Required(ErrorMessage ="User Name is required")]
-public int Usemane { get; set; }
+public string Username { get; set; }
 
 [EmailAddress]
 [Required(ErrorMessage = "Email is required")]

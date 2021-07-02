@@ -11,27 +11,27 @@ Paso a paso para instalar el servicio entityUser que trae por defecto .Net Core 
 
 En <a target="_blank" href="{{ page.youtube }}">mi canal de youtube</a> hay un video del paso a paso:
 
-1. Crear la carpeta Models
-2. Crear el modelo: ApplicationUser
+- Crear la carpeta Models
+- Crear el modelo: ApplicationUser
 ```C#
 public class ApplicationUser : IdentityUser
 {
 }
 ```
-3. Crear un modelo de prueba
-4. Crear un controlador de prueba para el modelo de prueba
-5. Renombrar el DbContext por: ApplicationDbContext
-6. Actualizar el DbContext
+- Crear un modelo de prueba
+- Crear un controlador de prueba para el modelo de prueba
+- Renombrar el DbContext por: ApplicationDbContext
+- Actualizar el DbContext
 
 ```C#
 : IdentityDbContext<ApplicationUser>
 ```
 
-7. Actualizar el ConnectionString
-8. Actualizar dependencias
-9. Crear migracion
-10. Actualizar base de datos
-11. Crear modelo: RegisterModel
+- Actualizar el ConnectionString
+- Actualizar dependencias
+- Crear migracion
+- Actualizar base de datos
+- Crear modelo: RegisterModel
 
 ```C#
 [Required(ErrorMessage ="User Name is required")]
@@ -45,7 +45,7 @@ public string Email { get; set; }
 public string Password { get; set; }
 ```
 
-12. Crear modelo: LoginModel
+- Crear modelo: LoginModel
 
 ```C#
 [Required(ErrorMessage = "User Name is required")]
@@ -55,8 +55,8 @@ public string Username { get; set; }
 public string Password { get; set; }
 ```
 
-13. Crear el controlador: AccountController
-14. Agregar el constructor al controlador
+- Crear el controlador: AccountController
+- Agregar el constructor al controlador
 
 ```C#
 private readonly UserManager<ApplicationUser> userManager;
@@ -71,7 +71,7 @@ public AccountController(UserManager<ApplicationUser> userManager, RoleManager<I
 }
 ```
 
-15. Agregar el metodo registrar dentro del controlador
+- Agregar el metodo registrar dentro del controlador
 
 ```C#
 [HttpPost]
@@ -96,7 +96,7 @@ public async Task<IActionResult> Register([FromBody] RegisterModel model)
 }
 ```
 
-16. Agregar en metodo login dentro del controlador
+- Agregar en metodo login dentro del controlador
 
 ```C#
 [HttpPost]
@@ -139,7 +139,7 @@ public async Task<IActionResult> Login([FromBody] LoginModel model)
 }
 ```
 
-17. Agregamos los servicios en startup
+- Agregamos los servicios en startup
 
 ```C#
 // For Identity
@@ -171,7 +171,7 @@ services.AddAuthentication(options =>
 });
 ```
 
-18. Actualizamos el servicio de Swagger en startup
+- Actualizamos el servicio de Swagger en startup
 
 ```C#
 services.AddSwaggerGen(swagger =>
@@ -210,14 +210,14 @@ services.AddSwaggerGen(swagger =>
 });
 ```
 
-19. Agregamos las aplicaciones en startup
+- Agregamos las aplicaciones en startup
 
 ```C#
 app.UseAuthentication();
 app.UseAuthorization();
 ```
 
-20. Agregamos al: appsettings
+- Agregamos al: appsettings
 
 ```C#
 "JWT": {

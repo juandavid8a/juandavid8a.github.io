@@ -12,9 +12,6 @@ Paso a paso para instalar el IDE de desarrollo VSCode y correrlo directamente en
 En <a target="_blank" href="{{ page.youtube }}">mi canal de youtube</a> hay un video del paso a paso:
 
 ```PHP
-//Web freenom para registrar dominios gratis
-https://my.freenom.com
-
 cd bin
 sudo wget https://github.com/cdr/code-server/releases/download/2.1698/code-server2.1698-vsc1.41.1-linux-x86_64.tar.gz
 sudo tar xvzf code-server2.1698-vsc1.41.1-linux-x86_64.tar.gz

@@ -62,7 +62,7 @@ http://jgzvkisiov642jlc.onion/
 http://tetatl6umgbmtv27.onion/
 
 //Url de facebook accesible desde deepweb
-https://www.facebookcorewwwi.onion/
+https://www.facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion/
 
 //Blog EL BINARIO
 http://binario5yvaed5ie.onion/

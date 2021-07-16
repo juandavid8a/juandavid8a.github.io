@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Solucionar problema CORS en .Net Core 5 | 2021"
+title:  "Solucionar problema CORS en .Net Core 5"
 description: Cómo Solucionar problema CORS en .Net Core 5
 comments: true
 category: Tutoriales

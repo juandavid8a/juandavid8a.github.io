@@ -3,8 +3,8 @@ layout: post
 title:  "Solucionar problema CORS en .Net Core 5"
 description: Cómo Solucionar problema CORS en .Net Core 5
 comments: true
-category: Tutoriales
-tags: Tutoriales Trucos
+category: Error
+tags: Error Trucos
 youtube: https://youtu.be/CDEaBtEeVwM
 ---
 Un par de lineas para solucionar el problema de CORS en API .Net Core 5

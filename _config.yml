@@ -20,7 +20,7 @@ author:
   gravatar:       https://es.gravatar.com/juandavid8a160218
   photo:          https://s.gravatar.com/avatar/cd52071b4f9bd4270c077c653c8ca1d7?s=350
   introduction:   'Full Stack Developer experto en Sistematización de Procesos en la Nube, Jugador de PaintBall, Roller Derby, Gomoso de la Robótica, Electrónica y La Tecnología.'
-  contact:        'juandavid8a@gmail.com<br>3052370311<br>Medellin - Colombia'
+  contact:        'juandavid8a@gmail.com<br>(+57) 3052370311<br>Medellín - Colombia'
 
 paginate:         5
 paginate_path:    '/blog/page:num'

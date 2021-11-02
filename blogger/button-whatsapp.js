@@ -5,12 +5,12 @@ function CreateWhatsappChatWidget(option = {
         borderRadius: "25",
         brandImg: "https://cdn.clare.ai/wati/images/WATI_logo_square_2.png",
         brandImgData: null,
-        brandName: "WATI",
-        brandSubTitle: "Typically replies within a day",
-        ctaText: "Start Chat",
-        welcomeText: "Hi, there! \nHow can I help you?",
+        brandName: "Juan David Ochoa",
+        brandSubTitle: "En Linea",
+        ctaText: "Iniciar Chat",
+        welcomeText: "Hola !! \n Cómo puedo ayudarte?",
         messageText: "",
-        phoneNumber: "85252859384"
+        phoneNumber: "+573052370311"
     },
     chatButtonSetting: {
         backgroundColor: "#4dc247",

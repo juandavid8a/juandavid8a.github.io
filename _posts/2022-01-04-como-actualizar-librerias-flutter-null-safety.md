@@ -3,7 +3,7 @@ layout: post
 title:  "Cómo encontrar librerias flutter"
 description: Página web para encontrar librerias flutter
 comments: true
-category: Trucos
+category: Tutoriales
 tags: Trucos
 youtube: https://youtu.be/CDEaBtEeVwM
 link: https://fluttergems.dev/

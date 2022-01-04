@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Cómo encontrar librerias flutter"
-description: Página web para encontrar librerias flutter
+title:  "Cómo buscar y encontrar librerias flutter"
+description: Página web para buscar y encontrar librerias flutter
 comments: true
 category: Tutoriales
 tags: Trucos

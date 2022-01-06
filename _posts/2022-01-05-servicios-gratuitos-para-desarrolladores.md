@@ -17,14 +17,14 @@ Recopilación de herramientas o recursos gratuitos en la red para desarrolladore
 Hosting gratuito para aplicaciones C# (.net core)
 - <a target="_blank" href="{{ page.videofreeasp }}">Ver video</a> 
 - <a target="_blank" href="{{ page.linkfreeasp }}">https://freeasphosting.net</a> 
--- [x] SQL
--- [x] SSL automatico
--- [ ] No FTP
+- [x] SQL
+- [x] SSL automatico
+- [ ] No FTP
 
 ### SOMEE:
 Hosting gratuito para aplicaciones C# (.net core)
-1. <a target="_blank" href="{{ page.videosomee }}">Ver video</a> 
-2. <a target="_blank" href="{{ page.linksome }}">https://somee.com/</a> 
+- <a target="_blank" href="{{ page.videosomee }}">Ver video</a> 
+- <a target="_blank" href="{{ page.linksome }}">https://somee.com/</a> 
 - [x] SQL
 - [x] FTP
 - [x] Free SSL (Hay que renovarlo manualmente cada 3 meses)

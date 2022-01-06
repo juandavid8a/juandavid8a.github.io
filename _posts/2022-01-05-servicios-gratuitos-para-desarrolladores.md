@@ -14,7 +14,7 @@ Recopilación de herramientas o recursos gratuitos en la red para desarrolladore
 ### FREEASPHOSTING:
 Hosting gratuito para aplicaciones C# (.net core)
 - <a target="_blank" href="{{ page.link2 }}">https://freeasphosting.net</a> 
-[x] SQL
+- :heavy_check_mark: SQL
 [x] SSL automatico
 [x] FTP
 
@@ -22,8 +22,8 @@ Hosting gratuito para aplicaciones C# (.net core)
 Hosting gratuito para aplicaciones C# (.net core)
 - <a target="_blank" href="{{ page.youtube1 }}">Ver video</a> 
 - <a target="_blank" href="{{ page.link }}">https://somee.com/</a> 
-[x] SQL
-[x] FTP
-[x] Free SSL (Hay que renovarlo manualmente cada 3 meses)
-[x] Pone un anuncio en el pie de pagina del sitio
+- [x] SQL
+- [x] FTP
+- [x] Free SSL (Hay que renovarlo manualmente cada 3 meses)
+- [x] Pone un anuncio en el pie de pagina del sitio
  

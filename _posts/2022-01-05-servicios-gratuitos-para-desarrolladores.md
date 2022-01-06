@@ -3,7 +3,7 @@ layout: post
 title:  "Servicios gratuitos para desarrolladores"
 description: Servicios gratuitos para desarrolladores
 comments: true
-category: Tutoriales
+category: La Red
 tags: Herramientas
 videosomee: https://youtu.be/3Tue1UPaqlo
 videowin10: https://youtu.be/SUPPpapA3lg
@@ -28,7 +28,3 @@ Hosting gratuito para aplicaciones C# (.net core)
 - [x] FTP
 - [x] Free SSL (Hay que renovarlo manualmente cada 3 meses)
 - [ ] Pone un anuncio en el pie de pagina del sitio
-
-### DESCARGAR ISO WINDOWS 10 ORIGINAL DESDE MICROSOFT:
-Truco para descargar desde la pagina de microsoft el ISO de windows 10
-- <a target="_blank" href="{{ page.videowin10 }}">Ver video</a>

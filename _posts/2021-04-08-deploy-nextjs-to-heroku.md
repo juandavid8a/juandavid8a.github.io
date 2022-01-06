@@ -5,7 +5,7 @@ description: Cómo hacer deploy de una app next.js en Heroku
 comments: true
 category: Tutoriales
 tags: Tutoriales
-youtube: https://youtu.be/CDEaBtEeVwM
+youtube: https://youtu.be/5Kk3DcBNROE
 ---
 Un par de lineas necesarias para poder hacer deploy correctamente de una aplicación next.js desde Github a Heroku.
 

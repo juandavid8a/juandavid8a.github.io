@@ -29,10 +29,6 @@ Hosting gratuito para aplicaciones C# (.net core)
 - [x] Free SSL (Hay que renovarlo manualmente cada 3 meses)
 - [ ] Pone un anuncio en el pie de pagina del sitio
 
-### DESCARGAR ISO WINDOWS 11 ORIGINAL DESDE MICROSOFT:
-Truco para descargar desde la pagina de microsoft el ISO de windows 11
-- <a target="_blank" href="{{ page.videowin11 }}">Ver video</a>
-
 ### DESCARGAR ISO WINDOWS 10 ORIGINAL DESDE MICROSOFT:
 Truco para descargar desde la pagina de microsoft el ISO de windows 10
 - <a target="_blank" href="{{ page.videowin10 }}">Ver video</a>

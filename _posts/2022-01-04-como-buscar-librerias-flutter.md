@@ -5,7 +5,7 @@ description: Página web para buscar y encontrar librerias flutter
 comments: true
 category: Tutoriales
 tags: Trucos
-youtube: https://youtu.be/CDEaBtEeVwM
+youtube: https://youtu.be/DHhiFybG-Mg
 link: https://fluttergems.dev/
 ---
 Una página web para buscar librerias Flutter

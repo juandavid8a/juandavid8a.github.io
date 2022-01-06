@@ -7,7 +7,7 @@ category: La Red
 tags: Herramientas
 videosomee: https://youtu.be/3Tue1UPaqlo
 videowin10: https://youtu.be/SUPPpapA3lg
-videowin11: https://youtu.be/SUPPpapA3lg
+videofreeasp: https://youtu.be/SUPPpapA3lg
 linksome: https://somee.com/
 linkfreeasp: https://freeasphosting.net/
 ---
@@ -15,10 +15,11 @@ Recopilación de herramientas o recursos gratuitos en la red para desarrolladore
 
 ### FREEASPHOSTING:
 Hosting gratuito para aplicaciones C# (.net core)
-1. <a target="_blank" href="{{ page.linkfreeasp }}">https://freeasphosting.net</a> 
-- [x] SQL
-- [x] SSL automatico
-- [ ] No FTP
+- <a target="_blank" href="{{ page.videofreeasp }}">Ver video</a> 
+- <a target="_blank" href="{{ page.linkfreeasp }}">https://freeasphosting.net</a> 
+-- [x] SQL
+-- [x] SSL automatico
+-- [ ] No FTP
 
 ### SOMEE:
 Hosting gratuito para aplicaciones C# (.net core)

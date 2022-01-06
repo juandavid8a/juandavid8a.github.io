@@ -13,17 +13,17 @@ Recopilación de herramientas o recursos gratuitos en la red para desarrolladore
 
 ### FREEASPHOSTING:
 Hosting gratuito para aplicaciones C# (.net core)
-- <a target="_blank" href="{{ page.link2 }}">https://freeasphosting.net</a> 
-- :heavy_check_mark: SQL
-[x] SSL automatico
-[x] FTP
+1. <a target="_blank" href="{{ page.link2 }}">https://freeasphosting.net</a> 
+- [x] SQL
+- [x] SSL automatico
+- [ ] No FTP
 
 ### SOMEE:
 Hosting gratuito para aplicaciones C# (.net core)
-- <a target="_blank" href="{{ page.youtube1 }}">Ver video</a> 
-- <a target="_blank" href="{{ page.link }}">https://somee.com/</a> 
+1. <a target="_blank" href="{{ page.youtube1 }}">Ver video</a> 
+2. <a target="_blank" href="{{ page.link }}">https://somee.com/</a> 
 - [x] SQL
 - [x] FTP
 - [x] Free SSL (Hay que renovarlo manualmente cada 3 meses)
-- [x] Pone un anuncio en el pie de pagina del sitio
+- [ ] Pone un anuncio en el pie de pagina del sitio
  

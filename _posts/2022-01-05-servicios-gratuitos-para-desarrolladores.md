@@ -5,9 +5,11 @@ description: Servicios gratuitos para desarrolladores
 comments: true
 category: Tutoriales
 tags: Herramientas
-youtube1: https://youtu.be/3Tue1UPaqlo
-link1: https://somee.com/
-link2: https://freeasphosting.net/
+videosomee: https://youtu.be/3Tue1UPaqlo
+videowin10: https://youtu.be/SUPPpapA3lg
+videowin11: https://youtu.be/SUPPpapA3lg
+linksome: https://somee.com/
+linkfreeasp: https://freeasphosting.net/
 ---
 Recopilación de herramientas o recursos gratuitos en la red para desarrolladores.
 
@@ -20,10 +22,17 @@ Hosting gratuito para aplicaciones C# (.net core)
 
 ### SOMEE:
 Hosting gratuito para aplicaciones C# (.net core)
-1. <a target="_blank" href="{{ page.youtube1 }}">Ver video</a> 
-2. <a target="_blank" href="{{ page.link }}">https://somee.com/</a> 
+1. <a target="_blank" href="{{ page.videosomee }}">Ver video</a> 
+2. <a target="_blank" href="{{ page.linksome }}">https://somee.com/</a> 
 - [x] SQL
 - [x] FTP
 - [x] Free SSL (Hay que renovarlo manualmente cada 3 meses)
 - [ ] Pone un anuncio en el pie de pagina del sitio
- 
+
+### DESCARGAR ISO WINDOWS 11 ORIGINAL DESDE MICROSOFT:
+Truco para descargar desde la pagina de microsoft el ISO de windows 11
+- <a target="_blank" href="{{ page.videowin11 }}">Ver video</a>
+
+### DESCARGAR ISO WINDOWS 10 ORIGINAL DESDE MICROSOFT:
+Truco para descargar desde la pagina de microsoft el ISO de windows 10
+- <a target="_blank" href="{{ page.videowin10 }}">Ver video</a>

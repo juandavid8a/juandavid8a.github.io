@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Cómo arreglar el error de ciclos de objetos NetCore 5"
+title:  "Cómo arreglar error de ciclos de objetos NetCore 5"
 description: Cómo arreglar el error A possible object cycle was detected en .Net Core 5
 comments: true
 category: Tutoriales

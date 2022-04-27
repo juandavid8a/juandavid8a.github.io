@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Cómo instalar HomeAsistant en Raspberry"
+title:  "Cómo instalar HomeAsistant en Raspberry Pi"
 description: Cómo instalar Raspbian, Docker, Portainer, Homeasistant
 comments: true
 category: Tutoriales

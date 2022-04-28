@@ -12,6 +12,8 @@ Paso a paso para instalar Homeassistant en una Raspberry, pero no queremos conde
 En <a target="_blank" href="{{ page.youtube }}">mi canal de youtube</a> hay un video del paso a paso:
 
 ```C#
+https://www.advanced-ip-scanner.com/
+
 sudo apt update
 sudo apt upgrade
 sudo apt install raspberrypi-kernel raspberrypi-kernel-headers

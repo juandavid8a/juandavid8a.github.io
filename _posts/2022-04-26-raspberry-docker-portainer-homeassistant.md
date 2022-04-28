@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Cómo instalar HomeAsistant en Raspberry Pi"
-description: Cómo instalar Raspbian, Docker, Portainer, Homeasistant
+title:  "Cómo instalar HomeAssistant en Raspberry Pi"
+description: Cómo instalar Raspbian, Docker, Portainer, Homeassistant
 comments: true
 category: Tutoriales
 tags: Tutoriales Trucos
 youtube: https://youtu.be/EbKw0Dcaf6o
 ---
-Paso a paso para instalar Homeasistant en una Raspberry, pero no queremos condenar toda una raspberry a ser solo un servidor de domotica, entonces vamos a instalar Raspbian, Docker, Portainer y por ultimo Homeasistant en un contenedor. De esta manera la Raspberry queda totalmente funcional con un sistema operativo corriendo el servidor de domotica y con la capacidad de correr otras aplicaciones o servidores en el mismo dispositivo.
+Paso a paso para instalar Homeassistant en una Raspberry, pero no queremos condenar toda una raspberry a ser solo un servidor de domotica, entonces vamos a instalar Raspbian, Docker, Portainer y por ultimo Homeassistant en un contenedor. De esta manera la Raspberry queda totalmente funcional con un sistema operativo corriendo el servidor de domotica y con la capacidad de correr otras aplicaciones o servidores en el mismo dispositivo.
 
 En <a target="_blank" href="{{ page.youtube }}">mi canal de youtube</a> hay un video del paso a paso:
 

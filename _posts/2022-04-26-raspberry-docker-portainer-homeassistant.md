@@ -23,6 +23,7 @@ sudo reboot
 docker version
 
 docker run -itd -p 8000:8000 -p 9000:9000 --name=portainer --restart=always -v /var/run/docker.sock:/var/run/docker.sock -v /docker/portainer:/data portainer/portainer-ce
+192.168.1.1:9000
 
 sudo apt-get install jq
 sudo apt-get install wget
@@ -37,4 +38,5 @@ wget https://github.com/home-assistant/os-agent/releases/download/1.2.2/os-agent
 dpkg -i os-agent_1.2.2_linux_armv7.deb
 wget https://github.com/home-assistant/supervised-installer/releases/latest/download/homeassistant-supervised.deb
 dpkg -i homeassistant-supervised.deb
+192.168.1.1:8123
 ```

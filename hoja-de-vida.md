@@ -19,10 +19,46 @@ Experto en Sistematización de Procesos en la Nube (Test-driven development (TDD
 
 ## Experiencia Laboral
 
+### Full Stack Developer.
+**Tuya S.A.**
+<br>
+2021 – Presente<br>
+Medellin - Colombia<br>
+
+C#, .Net Core, React.JS
+<hr/>
+
+### Full Stack Developer.
+**Sophos Solutions S.A.S.**
+<br>
+2021 – Presente<br>
+Medellin - Colombia<br>
+
+Flutter, C#, .Net Core, React.JS.
+<hr/>
+
+### Full Stack Developer.
+**OneSeven Technology**
+<br>
+2020 – 2021<br>
+Medellin - Colombia<br>
+
+C#, Net Core, Javascript, Node.Js, React framework, Sockets, GraphQL.
+<hr/>
+
+### Full Stack Developer.
+**Solvo Global**
+<br>
+2020 – 2021<br>
+Medellin - Colombia<br>
+
+Flutter, C#, Net Core, Javascript, Node.Js, React framework, API, PHP, GraphQL.
+<hr/>
+
 ### Director Departamento de Desarrollo.
 **Misión Empresarial**
 <br>
-2019 – actualidad<br>
+2019 – 2020<br>
 Medellin - Colombia<br>
 
 Sistematización de procesos e integración con ERP Novasoft en .NET CORE (Stored Procedure SQL, C#, Javascript, API-REST, Swagger, GLPI, Scraping, HTML5, Bootstrap.

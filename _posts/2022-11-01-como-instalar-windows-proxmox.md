@@ -22,3 +22,4 @@ En <a target="_blank" href="{{ page.youtube }}">mi canal de youtube</a> hay un v
 * Montar CDRoom con ISO VirtIO
 * Cargar drivers para instalacion desde el CDRoom
 * Instalar drivers del controlador desde el CDRoom
+* Instalar Guest Agent

@@ -11,7 +11,7 @@ Comando de consola para lograr agregar los contenedores de turnkey al administra
 
 En <a target="_blank" href="{{ page.youtube }}">mi canal de youtube</a> hay un video del paso a paso:
 
-* Ingreamos a nuestro panel de control de Proxmox
+* Ingresamos a nuestro panel de control de Proxmox
 * Ingresamos a nuestro servidor
 * Ingresamos al Shell
 * Copiamos y pegamos el siguiente comando

@@ -25,5 +25,6 @@ Instalar escritorio remoto:
 ```C#
 sudo apt update
 sudo apt upgrade
+sudo reboot
 sudo apt install xrdp
 ```

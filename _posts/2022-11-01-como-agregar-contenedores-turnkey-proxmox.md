@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Cómo agregar los contenedores turnkey a proxmox"
+title:  "Cómo agregar templates turnkey a proxmox"
 description: Cómo agregar los contenedores turnkey a proxmox
 comments: true
 category: Tutoriales

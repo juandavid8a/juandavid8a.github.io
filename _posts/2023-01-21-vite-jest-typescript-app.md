@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Cómo instalar Jest en React con Vite y Typescript"
+title:  "Cómo crear y configurar prueba unitaria Jest en React con Vite y Typescript"
 description: Cómo configurar jest en React con vite y typescript
 comments: true
 category: Tutoriales

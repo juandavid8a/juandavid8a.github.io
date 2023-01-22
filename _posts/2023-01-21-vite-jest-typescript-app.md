@@ -18,7 +18,7 @@ yarn add --dev jest-svg-transformer
 pnpm i --save-dev @babel/core @babel/preset-typescript
 pnpm i --save-dev identity-obj-proxy
 
-"test": "jest --watchAll"
+"test": "jest --watchAll=false --coverage --CI=true"
 
 babel.config.js 
 module.exports = {

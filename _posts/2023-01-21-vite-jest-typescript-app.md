@@ -13,7 +13,7 @@ En <a target="_blank" href="{{ page.youtube }}">mi canal de youtube</a> hay un v
 
 ```C#
 yarn add --dev jest babel-jest @babel/preset-env @babel/preset-react 
-yarn add --dev @testing-library/react  @testing-library/dom @testing-library/user-event @types/jest jest-environment-jsdom
+yarn add --dev @testing-library/react @testing-library/dom @testing-library/user-event @types/jest jest-environment-jsdom
 yarn add --dev jest-svg-transformer
 pnpm i --save-dev @babel/core @babel/preset-typescript
 pnpm i --save-dev identity-obj-proxy

@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Cómo usar entity user con mongo y jwt"
-description: 
+title:  "Cómo usar EntityUser y JWT con MongoDB"
+description: "Cómo usar EntityUser y JWT con MongoDB"
 comments: true
 category: Tutoriales
 tags: Tutoriales Trucos
@@ -11,7 +11,7 @@ Codigo paso a paso para integrar EntityUser y JWT con MongoDB.
 
 En <a target="_blank" href="{{ page.youtube }}">mi canal de youtube</a> hay un video del paso a paso:
 
-instalamos paquetes:
+Instalamos paquetes:
 ```C#
   AspNetCore.Identity.MongoDbCore
   MongoDB.Bson

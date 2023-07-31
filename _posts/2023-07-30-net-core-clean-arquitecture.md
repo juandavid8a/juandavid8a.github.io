@@ -74,19 +74,3 @@ public class UserService : IUserService
     }
 }
 ```
-
-11. Creamos UserController:
-```C#
-public IUserService _userService;
-
-public UserController(IUserService userService)
-{
-    _userService = userService;
-}
-
-[HttpGet]
-public async Task<List<UserEntity>> Get() { 
-
-    return await _userService.GetAll();
-}
-```

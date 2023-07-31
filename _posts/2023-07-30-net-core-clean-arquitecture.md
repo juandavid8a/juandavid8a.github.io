@@ -13,14 +13,11 @@ En <a target="_blank" href="{{ page.youtube }}">mi canal de youtube</a> hay un v
 
 1. Creamos una Blank Solution
 
-2. Instalamos paquetes:
-- Microsoft.Extensions.Options
-
-3. Agregamos proyecto Class Library .API
+2. Agregamos proyecto Class Library .API
 - Controllers
 - Responses
   
-4. Agregamos proyecto Class Library .Core
+3. Agregamos proyecto Class Library .Core
 - DTOs
 - Entities
 - Enumerations
@@ -29,18 +26,18 @@ En <a target="_blank" href="{{ page.youtube }}">mi canal de youtube</a> hay un v
 - QueryFilters
 - Services
   
-5. Agregamos proyecto Class Library .Infrastructure
+4. Agregamos proyecto Class Library .Infrastructure
 - Data
 - Repositories
 - Filters
 - Mappings
 - Validators
 
-6. Reference
+5. Reference
 - .API = .Core, .Infrastructure
 - .Infrastructure = .Core
 
-7. Ingresamos al appsettings:
+6. Ingresamos al appsettings:
 ```C#
 ,
 "MongoDbSettings": {
@@ -49,17 +46,17 @@ En <a target="_blank" href="{{ page.youtube }}">mi canal de youtube</a> hay un v
 }
 ```
 
-8. Agregamos al program:
+7. Agregamos al program:
 ```C#
 builder.Services.Configure<MongoDbSettings>(builder.Configuration.GetSection(nameof(MongoDbSettings)));
 ```
 
-9. Creamos IUserRepository y IUserService:
+8. Creamos IUserRepository y IUserService:
 ```C#
 Task<List<UserEntity>> GetAll();
 ```
 
-10. Creamos UserRepository:
+9. Creamos UserRepository:
 ```C#
 public class UserRepository : IUserRepository
 {
@@ -73,7 +70,7 @@ public class UserRepository : IUserRepository
 }
 ```
 
-11. Creamos UserService:
+10. Creamos UserService:
 ```C#
 public class UserService : IUserService
 {
@@ -89,10 +86,8 @@ public class UserService : IUserService
 }
 ```
 
-12. Agregamos al program:
+11. Agregamos al program:
 ```C#
 builder.Services.AddSingleton<IUserService, UserService>();
 builder.Services.AddSingleton<IUserRepository, UserRepository>();
 ```
-
-

@@ -11,16 +11,16 @@ Codigo paso a paso para integrar Clean Arquitecture a Net Core 7.
 
 En <a target="_blank" href="{{ page.youtube }}">mi canal de youtube</a> hay un video del paso a paso:
 
-Creamos una Blank Solution
+1. Creamos una Blank Solution
 
-Instalamos paquetes:
+2. Instalamos paquetes:
 - Microsoft.Extensions.Options
 
-Agregamos proyecto Class Library .API
+3. Agregamos proyecto Class Library .API
 - Controllers
 - Responses
   
-Agregamos proyecto Class Library .Core
+4. Agregamos proyecto Class Library .Core
 - DTOs
 - Entities
 - Enumerations
@@ -29,18 +29,18 @@ Agregamos proyecto Class Library .Core
 - QueryFilters
 - Services
   
-Agregamos proyecto Class Library .Infrastructure
+5. Agregamos proyecto Class Library .Infrastructure
 - Data
 - Repositories
 - Filters
 - Mappings
 - Validators
 
-Reference
+6. Reference
 - .API = .Core, .Infrastructure
 - .Infrastructure = .Core
 
-Creamos MongoDbSettings Entity:
+7. Creamos MongoDbSettings Entity:
 ```C#
 public required string ConnectionString { get; set; }        
 public required string DatabaseName { get; set; }

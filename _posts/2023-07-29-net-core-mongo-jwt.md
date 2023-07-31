@@ -55,7 +55,9 @@ BsonSerializer.RegisterSerializer(new DateTimeSerializer(MongoDB.Bson.BsonType.S
 BsonSerializer.RegisterSerializer(new DateTimeOffsetSerializer(MongoDB.Bson.BsonType.String));
 
 //add mongoIdentityConfiguration...
-var mongoDbIdentityConfig = (MongoDbSettings)builder.Configuration.GetSection(nameof(MongoDbSettings)),
+var mongoDbIdentityConfig = new MongoDbIdentityConfiguration
+{
+    MongoDbSettings = (MongoDbSettings)builder.Configuration.GetSection(nameof(MongoDbSettings)),
     IdentityOptionsAction = options =>
     {
         options.Password.RequireDigit = false;

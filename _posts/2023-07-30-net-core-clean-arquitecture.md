@@ -40,17 +40,26 @@ En <a target="_blank" href="{{ page.youtube }}">mi canal de youtube</a> hay un v
 - .API = .Core, .Infrastructure
 - .Infrastructure = .Core
 
-7. Agregamos al program:
+7. Ingresamos al appsettings:
+```C#
+,
+"MongoDbSettings": {
+  "ConnectionString": "url",
+  "DatabaseName": "namestring"
+}
+```
+
+8. Agregamos al program:
 ```C#
 builder.Services.Configure<MongoDbSettings>(builder.Configuration.GetSection(nameof(MongoDbSettings)));
 ```
 
-8. Creamos IUserRepository y IUserService:
+9. Creamos IUserRepository y IUserService:
 ```C#
 Task<List<UserEntity>> GetAll();
 ```
 
-9. Creamos UserRepository:
+10. Creamos UserRepository:
 ```C#
 public class UserRepository : IUserRepository
 {
@@ -64,7 +73,7 @@ public class UserRepository : IUserRepository
 }
 ```
 
-10. Creamos UserService:
+11. Creamos UserService:
 ```C#
 public class UserService : IUserService
 {
@@ -80,7 +89,7 @@ public class UserService : IUserService
 }
 ```
 
-11. Agregamos al program:
+12. Agregamos al program:
 ```C#
 builder.Services.AddSingleton<IUserService, UserService>();
 builder.Services.AddSingleton<IUserRepository, UserRepository>();

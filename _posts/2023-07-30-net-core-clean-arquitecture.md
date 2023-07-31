@@ -64,21 +64,23 @@ public class UserRepository : IUserRepository
 }
 ```
 
-10. Creamos UserRepository:
+10. Creamos UserService:
 ```C#
-public class UserRepository : IUserRepository
+public class UserService : IUserService
 {
-    private readonly IMongoCollection<UserEntity> _users;
-    public UserRepository(IOptions<MongoDbSettings> options)
+    private readonly IUserRepository _userRepository;
+    public UserService(IUserRepository userRepository)
     {
-        var mongoClient = new MongoClient(options.Value.ConnectionString);
-        _users = mongoClient.GetDatabase(options.Value.DatabaseName).GetCollection<UserEntity>("users");
+        _userRepository = userRepository;
     }
-    public async Task<List<UserEntity>> GetAll() => await _users.Find(_ => true).ToListAsync();
+    public Task<List<UserEntity>> GetAll()
+    {
+        return _userRepository.GetAll();
+    }
 }
 ```
 
-11. Creamos UserRepository:
+11. Agregamos al program:
 ```C#
 builder.Services.AddSingleton<IUserService, UserService>();
 builder.Services.AddSingleton<IUserRepository, UserRepository>();

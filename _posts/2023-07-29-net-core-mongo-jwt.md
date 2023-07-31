@@ -48,7 +48,7 @@ Creamos ApplicationRole:
 
 Agregamos a Program.cs:
 ```C#
-//Mongo
+// Add services to the container.
 builder.Services.Configure<MongoDbSettings>(builder.Configuration.GetSection(nameof(MongoDbSettings)));
 BsonSerializer.RegisterSerializer(new GuidSerializer(MongoDB.Bson.BsonType.String));
 BsonSerializer.RegisterSerializer(new DateTimeSerializer(MongoDB.Bson.BsonType.String));
@@ -57,7 +57,7 @@ BsonSerializer.RegisterSerializer(new DateTimeOffsetSerializer(MongoDB.Bson.Bson
 //add mongoIdentityConfiguration...
 var mongoDbIdentityConfig = new MongoDbIdentityConfiguration
 {
-    MongoDbSettings = (MongoDbSettings)builder.Configuration.GetSection(nameof(MongoDbSettings)),
+    MongoDbSettings = builder.Configuration.GetSection(nameof(MongoDbSettings)).Get<MongoDbSettings>(),
     IdentityOptionsAction = options =>
     {
         options.Password.RequireDigit = false;

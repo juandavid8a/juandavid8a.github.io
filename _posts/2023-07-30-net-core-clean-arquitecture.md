@@ -84,7 +84,7 @@ builder.Services.AddSingleton<IUserService, UserService>();
 builder.Services.AddSingleton<IUserRepository, UserRepository>();
 ```
 
-10. Creamos UserController:
+11. Creamos UserController:
 ```C#
 public IUserService _userService;
 

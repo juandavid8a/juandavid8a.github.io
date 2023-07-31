@@ -14,31 +14,31 @@ En <a target="_blank" href="{{ page.youtube }}">mi canal de youtube</a> hay un v
 Creamos una Blank Solution
 
 Instalamos paquetes:
-  Microsoft.Extensions.Options
+- Microsoft.Extensions.Options
 
 Agregamos proyecto Class Library .API
-  Controllers
-  Responses
+- Controllers
+- Responses
   
 Agregamos proyecto Class Library .Core
-  DTOs
-  Entities
-  Enumerations
-  Interfaces
-  Exceptions
-  QueryFilters
-  Services
+- DTOs
+- Entities
+- Enumerations
+- Interfaces
+- Exceptions
+- QueryFilters
+- Services
   
 Agregamos proyecto Class Library .Infrastructure
-  Data
-  Repositories
-  Filters
-  Mappings
-  Validators
+- Data
+- Repositories
+- Filters
+- Mappings
+- Validators
 
 Reference
-  .API = .Core, .Infrastructure
-  .Infrastructure = .Core
+- .API = .Core, .Infrastructure
+- .Infrastructure = .Core
 
 Creamos MongoDbSettings Entity:
 ```C#

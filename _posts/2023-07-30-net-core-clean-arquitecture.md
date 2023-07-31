@@ -86,5 +86,5 @@ public class UserService : IUserService
 builder.Services.AddSingleton<IUserService, UserService>();
 
 //Repositories
-builder.Services.AddSingleton<IUserRepository, UserRepository>();
+builder.Services.AddSingleton<IUserRepository, UserRepository>();)));
 ```

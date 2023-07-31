@@ -13,7 +13,7 @@ En <a target="_blank" href="{{ page.youtube }}">mi canal de youtube</a> hay un v
 
 1. Creamos una Blank Solution
 
-2. Agregamos proyecto API .API
+2. Agregamos proyecto API .Api
 - Controllers
 - Responses
   

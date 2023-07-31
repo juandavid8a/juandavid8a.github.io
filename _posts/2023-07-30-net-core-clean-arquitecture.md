@@ -64,22 +64,6 @@ public class UserRepository : IUserRepository
 }
 ```
 
-10. Creamos UserService:
-```C#
-public class UserService : IUserService
-{
-    private readonly IUserRepository _userRepository;
-    public UserService(IUserRepository userRepository)
-    {
-        _userRepository = userRepository;
-    }
-    public Task<List<UserEntity>> GetAll()
-    {
-        return _userRepository.GetAll();
-    }
-}
-```
-
 11. Agregamos al program:
 ```C#
 //Services

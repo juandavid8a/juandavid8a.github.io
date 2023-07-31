@@ -57,12 +57,26 @@ AspNetCore.Identity.MongoDbCore
 builder.Services.Configure<MongoDbSettings>(builder.Configuration.GetSection(nameof(MongoDbSettings)));
 ```
 
-9. Creamos IUserRepository y IUserService:
+9. Creamos el UserEntity:
+```C#
+[BsonIgnoreExtraElements]
+public class UserEntity
+{
+    [BsonId]
+    [BsonRepresentation(MongoDB.Bson.BsonType.ObjectId)]
+    public  Guid Id { get; set; }
+    public string Username { get; set; } = string.Empty;
+    public string Fullmane { get; set; } = string.Empty;
+    public string Email { get; set; } = string.Empty;
+}
+```
+
+10. Creamos IUserRepository y IUserService:
 ```C#
 Task<List<UserEntity>> GetAll();
 ```
 
-10. Creamos UserRepository:
+11. Creamos UserRepository:
 ```C#
 public class UserRepository : IUserRepository
 {
@@ -76,7 +90,7 @@ public class UserRepository : IUserRepository
 }
 ```
 
-11. Creamos UserService:
+12. Creamos UserService:
 ```C#
 public class UserService : IUserService
 {
@@ -92,7 +106,7 @@ public class UserService : IUserService
 }
 ```
 
-12. Agregamos al program:
+13. Agregamos al program:
 ```C#
 builder.Services.AddSingleton<IUserService, UserService>();
 builder.Services.AddSingleton<IUserRepository, UserRepository>();

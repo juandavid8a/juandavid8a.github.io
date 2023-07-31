@@ -51,18 +51,18 @@ public string ConnectionString { get; set; } = string.Empty;
 public string DatabaseName { get; set; } = string.Empty;
 ```
 
-7. Instalamos paquetes:
+8. Instalamos paquetes:
 ```C#
 MongoDB.Bson
 MongoDB.Driver
 ```
 
-8. Agregamos al program:
+9. Agregamos al program:
 ```C#
 builder.Services.Configure<MongoDbSettings>(builder.Configuration.GetSection(nameof(MongoDbSettings)));
 ```
 
-9. Creamos el UserEntity:
+10. Creamos el UserEntity:
 ```C#
 [BsonIgnoreExtraElements]
 public class UserEntity
@@ -76,12 +76,12 @@ public class UserEntity
 }
 ```
 
-10. Creamos IUserRepository y IUserService:
+11. Creamos IUserRepository y IUserService:
 ```C#
 Task<List<UserEntity>> GetAll();
 ```
 
-11. Creamos UserRepository:
+12. Creamos UserRepository:
 ```C#
 public class UserRepository : IUserRepository
 {
@@ -95,7 +95,7 @@ public class UserRepository : IUserRepository
 }
 ```
 
-12. Creamos UserService:
+13. Creamos UserService:
 ```C#
 public class UserService : IUserService
 {
@@ -111,7 +111,7 @@ public class UserService : IUserService
 }
 ```
 
-13. Agregamos al program:
+14. Agregamos al program:
 ```C#
 builder.Services.AddSingleton<IUserService, UserService>();
 builder.Services.AddSingleton<IUserRepository, UserRepository>();

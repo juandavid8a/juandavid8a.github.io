@@ -55,6 +55,7 @@ public string DatabaseName { get; set; } = string.Empty;
 MongoDB.Bson
 MongoDB.Driver
 Microsoft.Extensions.Options
+AspNetCore.Identity.MongoDbCore
 ```
 
 9. Agregamos al program:

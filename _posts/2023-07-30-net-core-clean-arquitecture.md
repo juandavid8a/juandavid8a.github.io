@@ -64,7 +64,7 @@ public class UserRepository : IUserRepository
 }
 ```
 
-9. Creamos UserRepository:
+10. Creamos UserRepository:
 ```C#
 public class UserRepository : IUserRepository
 {
@@ -78,18 +78,10 @@ public class UserRepository : IUserRepository
 }
 ```
 
-9. Creamos UserRepository:
+11. Creamos UserRepository:
 ```C#
-public class UserRepository : IUserRepository
-{
-    private readonly IMongoCollection<UserEntity> _users;
-    public UserRepository(IOptions<MongoDbSettings> options)
-    {
-        var mongoClient = new MongoClient(options.Value.ConnectionString);
-        _users = mongoClient.GetDatabase(options.Value.DatabaseName).GetCollection<UserEntity>("users");
-    }
-    public async Task<List<UserEntity>> GetAll() => await _users.Find(_ => true).ToListAsync();
-}
+builder.Services.AddSingleton<IUserService, UserService>();
+builder.Services.AddSingleton<IUserRepository, UserRepository>();
 ```
 
 

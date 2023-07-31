@@ -70,7 +70,7 @@ public class UserEntity
 {
     [BsonId]
     [BsonRepresentation(MongoDB.Bson.BsonType.ObjectId)]
-    public  Guid Id { get; set; }
+    public string Id { get; set; } = string.Empty;
     public string Username { get; set; } = string.Empty;
     public string Fullmane { get; set; } = string.Empty;
     public string Email { get; set; } = string.Empty;

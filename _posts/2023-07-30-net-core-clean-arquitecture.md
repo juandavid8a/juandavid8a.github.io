@@ -27,7 +27,6 @@ En <a target="_blank" href="{{ page.youtube }}">mi canal de youtube</a> hay un v
 - Services
   
 4. Agregamos proyecto Class Library .Infrastructure
-- Data
 - Repositories
 - Filters
 - Mappings

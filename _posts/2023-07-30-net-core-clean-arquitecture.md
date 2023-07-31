@@ -65,10 +65,10 @@ public class UserRepository : IUserRepository
 ```
 
 11. Agregamos al program:
-```C#
+~~~
 //Services
 builder.Services.AddSingleton<IUserService, UserService>();
 
 //Repositories
 builder.Services.AddSingleton<IUserRepository, UserRepository>();)));
-```
+~~~

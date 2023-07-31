@@ -40,8 +40,46 @@ En <a target="_blank" href="{{ page.youtube }}">mi canal de youtube</a> hay un v
 - .API = .Core, .Infrastructure
 - .Infrastructure = .Core
 
-7. Creamos MongoDbSettings Entity:
+7. Creamos IUserRepository y IUserService:
 ```C#
-public required string ConnectionString { get; set; }        
-public required string DatabaseName { get; set; }
+Task<List<UserEntity>> GetAll();
+```
+
+8. Creamos UserRepository:
+```C#
+    public class UserRepository : IUserRepository
+    {
+        private readonly IMongoCollection<UserEntity> _users;
+        public UserRepository(IOptions<MongoDbSettings> options)
+        {
+            var mongoClient = new MongoClient(options.Value.ConnectionString);
+            _users = mongoClient.GetDatabase(options.Value.DatabaseName).GetCollection<UserEntity>("users");
+        }
+        public async Task<List<UserEntity>> GetAll() => await _users.Find(_ => true).ToListAsync();
+    }
+```
+
+9. Creamos UserService:
+```C#
+    public class UserService : IUserService
+    {
+        private readonly IUserRepository _userRepository;
+        public UserService(IUserRepository userRepository)
+        {
+            _userRepository = userRepository;
+        }
+        public Task<List<UserEntity>> GetAll()
+        {
+            return _userRepository.GetAll();
+        }
+    }
+```
+
+10. Agregamos al program.cs:
+```C#
+//Services
+builder.Services.AddSingleton<IUserService, UserService>();
+
+//Repositories
+builder.Services.AddSingleton<IUserRepository, UserRepository>();
 ```

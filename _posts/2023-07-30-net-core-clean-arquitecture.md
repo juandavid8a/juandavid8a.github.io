@@ -49,6 +49,7 @@ En <a target="_blank" href="{{ page.youtube }}">mi canal de youtube</a> hay un v
 ```C#
 MongoDB.Bson
 MongoDB.Driver
+AspNetCore.Identity.MongoDbCore
 ```
 
 8. Agregamos al program:

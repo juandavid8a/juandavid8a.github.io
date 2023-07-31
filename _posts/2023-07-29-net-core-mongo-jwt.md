@@ -19,6 +19,15 @@ Instalamos paquetes:
   Microsoft.AspNetCore.Authentication.JwtBearer
 ```
 
+Ingresamos al appsettings:
+```C#
+    ,
+  "MongoDbSettings": {
+    "ConnectionString": "url",
+    "DatabaseName": "namestring"
+  }
+```
+
 Creamos ApplicationUser:
 ```C#
     [CollectionName("users")]
@@ -39,20 +48,14 @@ Creamos ApplicationRole:
 
 Agregamos a Program.cs:
 ```C#
-// Add services to the container.
+//Mongo
+builder.Services.Configure<MongoDbSettings>(builder.Configuration.GetSection(nameof(MongoDbSettings)));
 BsonSerializer.RegisterSerializer(new GuidSerializer(MongoDB.Bson.BsonType.String));
 BsonSerializer.RegisterSerializer(new DateTimeSerializer(MongoDB.Bson.BsonType.String));
 BsonSerializer.RegisterSerializer(new DateTimeOffsetSerializer(MongoDB.Bson.BsonType.String));
 
-
 //add mongoIdentityConfiguration...
-var mongoDbIdentityConfig = new MongoDbIdentityConfiguration
-{
-    MongoDbSettings = new MongoDbSettings
-    {
-        ConnectionString = "mongodb://localhost:27017",
-        DatabaseName = "youtubemongodb"
-    },
+var mongoDbIdentityConfig = (MongoDbSettings)builder.Configuration.GetSection(nameof(MongoDbSettings)),
     IdentityOptionsAction = options =>
     {
         options.Password.RequireDigit = false;
@@ -63,11 +66,8 @@ var mongoDbIdentityConfig = new MongoDbIdentityConfiguration
         //lockout
         options.Lockout.DefaultLockoutTimeSpan = TimeSpan.FromMinutes(10);
         options.Lockout.MaxFailedAccessAttempts = 5;
-
         options.User.RequireUniqueEmail = true;
-
     }
-
 };
 
 builder.Services.ConfigureMongoDbIdentity<ApplicationUser, ApplicationRole, Guid>(mongoDbIdentityConfig)
@@ -80,8 +80,6 @@ builder.Services.AddAuthentication(x =>
 {
     x.DefaultAuthenticateScheme = JwtBearerDefaults.AuthenticationScheme;
     x.DefaultChallengeScheme = JwtBearerDefaults.AuthenticationScheme;
-
-
 }).AddJwtBearer(x =>
 {
     x.RequireHttpsMetadata = true;
@@ -96,7 +94,6 @@ builder.Services.AddAuthentication(x =>
         ValidAudience = "https://localhost:5001",
         IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes("1swek3u4uo2u4a6e")),
         ClockSkew = TimeSpan.Zero
-
     };
 });
 
@@ -123,7 +120,6 @@ builder.Services.AddSwaggerGen(setup =>
     {
         { jwtSecurityScheme, Array.Empty<string>() }
     });
-
 });
 ```
 

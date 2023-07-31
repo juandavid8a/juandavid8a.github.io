@@ -45,11 +45,16 @@ En <a target="_blank" href="{{ page.youtube }}">mi canal de youtube</a> hay un v
   "DatabaseName": "namestring"
 }
 ```
+7. Creamos MongoDbSettings:
+```C#
+public string ConnectionString { get; set; } = string.Empty;
+public string DatabaseName { get; set; } = string.Empty;
+```
+
 7. Instalamos paquetes:
 ```C#
 MongoDB.Bson
 MongoDB.Driver
-AspNetCore.Identity.MongoDbCore
 ```
 
 8. Agregamos al program:

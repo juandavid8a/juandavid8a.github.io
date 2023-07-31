@@ -117,3 +117,24 @@ public class UserService : IUserService
 builder.Services.AddSingleton<IUserService, UserService>();
 builder.Services.AddSingleton<IUserRepository, UserRepository>();
 ```
+
+15. Creo UserController:
+```C#
+[Route("api/[controller]")]
+[ApiController]
+public class UserController : ControllerBase
+{
+    private readonly IUserService _userService;
+    public UserController(IUserService userService)
+    {
+        _userService = userService;
+    }
+
+    // GET: api/<UserController>
+    [HttpGet]
+    public async Task<List<UserEntity>> GetAll()
+    {
+        return await _userService.GetAll();
+    }
+}
+```

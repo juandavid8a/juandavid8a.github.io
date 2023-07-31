@@ -45,7 +45,7 @@ En <a target="_blank" href="{{ page.youtube }}">mi canal de youtube</a> hay un v
   "DatabaseName": "namestring"
 }
 ```
-7. Creamos MongoDbSettings:
+7. Creamos MongoDbSettingsEntity:
 ```C#
 public string ConnectionString { get; set; } = string.Empty;
 public string DatabaseName { get; set; } = string.Empty;
@@ -60,7 +60,7 @@ Microsoft.Extensions.Options
 
 9. Agregamos al program:
 ```C#
-builder.Services.Configure<MongoDbSettings>(builder.Configuration.GetSection(nameof(MongoDbSettings)));
+builder.Services.Configure<MongoDbSettingsEntity>(builder.Configuration.GetSection(nameof(MongoDbSettings)));
 ```
 
 10. Creamos el UserEntity:
@@ -87,7 +87,7 @@ Task<List<UserEntity>> GetAll();
 public class UserRepository : IUserRepository
 {
     private readonly IMongoCollection<UserEntity> _users;
-    public UserRepository(IOptions<MongoDbSettings> options)
+    public UserRepository(IOptions<MongoDbSettingsEntity> options)
     {
         var mongoClient = new MongoClient(options.Value.ConnectionString);
         _users = mongoClient.GetDatabase(options.Value.DatabaseName).GetCollection<UserEntity>("users");

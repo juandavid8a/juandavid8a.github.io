@@ -74,3 +74,12 @@ public class UserService : IUserService
     }
 }
 ```
+
+10. Agregamos al program.cs:
+```C#
+//Services
+builder.Services.AddSingleton<IUserService, UserService>();
+
+//Repositories
+builder.Services.AddSingleton<IUserRepository, UserRepository>();
+```

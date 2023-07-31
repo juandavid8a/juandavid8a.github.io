@@ -13,37 +13,37 @@ En <a target="_blank" href="{{ page.youtube }}">mi canal de youtube</a> hay un v
 
 Instalamos paquetes:
 ```C#
-  AspNetCore.Identity.MongoDbCore
-  MongoDB.Bson
-  MongoDB.Driver
-  Microsoft.AspNetCore.Authentication.JwtBearer
+AspNetCore.Identity.MongoDbCore
+MongoDB.Bson
+MongoDB.Driver
+Microsoft.AspNetCore.Authentication.JwtBearer
 ```
 
 Ingresamos al appsettings:
 ```C#
-    ,
-  "MongoDbSettings": {
-    "ConnectionString": "url",
-    "DatabaseName": "namestring"
-  }
+  ,
+"MongoDbSettings": {
+  "ConnectionString": "url",
+  "DatabaseName": "namestring"
+}
 ```
 
 Creamos ApplicationUser:
 ```C#
-    [CollectionName("users")]
-    public class ApplicationUser : MongoIdentityUser<Guid>
-    {
-        public string FullName { get; set; } = string.Empty;
-    }
+[CollectionName("users")]
+public class ApplicationUser : MongoIdentityUser<Guid>
+{
+    public string FullName { get; set; } = string.Empty;
+}
 ```
 
 Creamos ApplicationRole:
 ```C#
-    [CollectionName("roles")]
-    public class ApplicationRole : MongoIdentityRole<Guid>
-    {
-        
-    }
+[CollectionName("roles")]
+public class ApplicationRole : MongoIdentityRole<Guid>
+{
+    
+}
 ```
 
 Agregamos a Program.cs:

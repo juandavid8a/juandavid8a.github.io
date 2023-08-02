@@ -89,7 +89,7 @@ Task<List<UserEntity>> GetAll();
 IMongoCollection<UserEntity> Users { get;  }
 ```
 
-13. Creamos context:
+13. Creamos Context:
 ```C#
 public class Context : IContext
 {

@@ -20,12 +20,12 @@ Experto en Sistematización de Procesos en la Nube (Test-driven development (TDD
 ## Experiencia Laboral
 
 ### Full Stack Developer.
-**Tuya S.A.**
+**Sistecredito**
 <br>
-2021 – Presente<br>
+2023 – Presente<br>
 Medellin - Colombia<br>
 
-C#, .Net Core, React.JS
+C#, .Net Core.
 <hr/>
 
 ### Full Stack Developer.
@@ -35,6 +35,15 @@ C#, .Net Core, React.JS
 Medellin - Colombia<br>
 
 Flutter, C#, .Net Core, React.JS.
+<hr/>
+
+### Full Stack Developer.
+**Tuya S.A.**
+<br>
+2021 – Presente<br>
+Medellin - Colombia<br>
+
+C#, .Net Core, React.JS
 <hr/>
 
 ### Full Stack Developer.

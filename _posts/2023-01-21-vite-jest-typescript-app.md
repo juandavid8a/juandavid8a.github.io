@@ -5,7 +5,7 @@ description: Cómo configurar jest en React con vite y typescript
 comments: true
 category: Tutoriales
 tags: Tutoriales Trucos
-youtube: https://youtu.be/EbKw0Dcaf6o
+youtube: https://youtu.be/62yuvCMZHco
 ---
 Paso a paso para crear una prueba unitaria basica con Jest en React con Vite y Typescript.
 

@@ -5,7 +5,7 @@ description: Cómo instalar Raspbian y otras configuraciones
 comments: true
 category: Tutoriales
 tags: Tutoriales Trucos
-youtube: https://youtu.be/EbKw0Dcaf6o
+youtube: https://youtu.be/m60_OxnNz5s
 ---
 Listado de cosas por instalar en una Raspberry, otras aplicaciones y configuraciones.
 

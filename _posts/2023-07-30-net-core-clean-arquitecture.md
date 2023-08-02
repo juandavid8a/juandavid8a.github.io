@@ -27,6 +27,7 @@ En <a target="_blank" href="{{ page.youtube }}">mi canal de youtube</a> hay un v
 - Services
   
 4. Agregamos proyecto Class Library .Infrastructure
+- Data
 - Repositories
 - Filters
 - Mappings
@@ -44,6 +45,7 @@ En <a target="_blank" href="{{ page.youtube }}">mi canal de youtube</a> hay un v
   "DatabaseName": "namestring"
 }
 ```
+
 7. Creamos MongoDbSettingsEntity:
 ```C#
 public string ConnectionString { get; set; } = string.Empty;
@@ -82,21 +84,39 @@ public class UserEntity
 Task<List<UserEntity>> GetAll();
 ```
 
-12. Creamos UserRepository:
+12. Creamos IContext:
 ```C#
-public class UserRepository : IUserRepository
+IMongoCollection<UserEntity> Users { get;  }
+```
+
+13. Creamos context:
+```C#
+public class Context : IContext
 {
-    private readonly IMongoCollection<UserEntity> _users;
-    public UserRepository(IOptions<MongoDbSettingsEntity> options)
+    private readonly IMongoDatabase _database;
+    public Context(IOptions<MongoDbSettingsEntity> options)
     {
-        var mongoClient = new MongoClient(options.Value.ConnectionString);
-        _users = mongoClient.GetDatabase(options.Value.DatabaseName).GetCollection<UserEntity>("users");
+        MongoClient _mongoClient = new MongoClient(options.Value.ConnectionString);
+        _database = _mongoClient.GetDatabase(options.Value.DatabaseName);
     }
-    public async Task<List<UserEntity>> GetAll() => await _users.Find(_ => true).ToListAsync();
+    public IMongoCollection<UserEntity> Users => _database.GetCollection<UserEntity>("users");
 }
 ```
 
-13. Creamos UserService:
+14. Creamos UserRepository:
+```C#
+public class UserRepository : IUserRepository
+{
+    private readonly IContext _context;
+    public UserRepository(IContext context)
+    {
+        _context = context;
+    }
+    public async Task<List<UserEntity>> GetAll() => await _context.Users.Find(_ => true).ToListAsync();
+}
+```
+
+15. Creamos UserService:
 ```C#
 public class UserService : IUserService
 {
@@ -112,13 +132,29 @@ public class UserService : IUserService
 }
 ```
 
-14. Agregamos al program:
+16. Creamos UserService:
+```C#
+public class UserService : IUserService
+{
+    private readonly IUserRepository _userRepository;
+    public UserService(IUserRepository userRepository)
+    {
+        _userRepository = userRepository;
+    }
+    public Task<List<UserEntity>> GetAll()
+    {
+        return _userRepository.GetAll();
+    }
+}
+```
+
+17. Agregamos al program:
 ```C#
 builder.Services.AddSingleton<IUserService, UserService>();
 builder.Services.AddSingleton<IUserRepository, UserRepository>();
 ```
 
-15. Creo UserController:
+18. Creo UserController:
 ```C#
 [Route("api/[controller]")]
 [ApiController]

@@ -20,7 +20,7 @@ Experto en Sistematización de Procesos en la Nube (Test-driven development (TDD
 ## Experiencia Laboral
 
 ### Full Stack Developer.
-**Sistecredito**
+**Sistecredito S.A.S.**
 <br>
 2023 – Presente<br>
 Medellin - Colombia<br>

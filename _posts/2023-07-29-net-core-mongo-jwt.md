@@ -5,7 +5,7 @@ description: "Cómo usar EntityUser y JWT con MongoDB"
 comments: true
 category: Tutoriales
 tags: Tutoriales Trucos
-youtube: https://youtu.be/EbKw0Dcaf6o
+youtube: https://youtu.be/f1hoUoB16NI
 ---
 Codigo paso a paso para integrar EntityUser y JWT con MongoDB.
 

@@ -22,11 +22,7 @@ En <a target="_blank" href="{{ page.youtube }}">mi canal de youtube</a> hay un v
 4. instalamos libreria 
 - npm i aws-iot-device-sdk
 
-5. Ingresamos al appsettings:
-
-
-
-
+5. Ingresamos el codigo node:
 
 ```C#
 const awsIot = require('aws-iot-device-sdk');

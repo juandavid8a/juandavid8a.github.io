@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Cómo enviar un topic a AWS con Node.js"
-description: "Cómo enviar un topic a AWS con Node.js"
+title:  "Cómo enviar un topic a AWS IOT con Node.js"
+description: "Cómo enviar un topic a AWS IOT con Node.js"
 comments: true
 category: Tutoriales
 tags: Tutoriales Trucos

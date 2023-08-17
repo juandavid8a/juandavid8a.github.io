@@ -24,7 +24,6 @@ En <a target="_blank" href="{{ page.youtube }}">mi canal de youtube</a> hay un v
 
 5. Ingresamos al appsettings:
 ```C#
-// Dependencies
 const awsIot = require('aws-iot-device-sdk');
 
 const today = new Date();
@@ -42,7 +41,6 @@ const device = awsIot.device({
     caPath: './CA.crt',
 });
 
-//Telemetry data
 const IoTDevice = {
     serialNumber: "SN-D7F3C8947867",
     dateTime,
@@ -69,7 +67,6 @@ const sendData = (data) => {
     return device.publish(topic, JSON.stringify(telemetryData))
 }
 
-// We connect our client to AWS  IoT core. 
 device
     .on('connect', function () {
         console.log('STEP - Connecting to AWS  IoT Core');
@@ -78,8 +75,6 @@ device
 
     });
 
-
-// Set handler for the device, it will get the messages from subscribers topics.
 device
     .on('message', function (topic, payload) {
         console.log('message', topic, payload.toString());

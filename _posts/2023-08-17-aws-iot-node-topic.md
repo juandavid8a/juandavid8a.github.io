@@ -23,7 +23,7 @@ En <a target="_blank" href="{{ page.youtube }}">mi canal de youtube</a> hay un v
 - npm i aws-iot-device-sdk
 
 5. Ingresamos al appsettings:
-```C#
+```
 // Dependencies
 const awsIot = require('aws-iot-device-sdk');
 

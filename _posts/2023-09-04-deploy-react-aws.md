@@ -32,4 +32,4 @@ AWS Secret Access Key [None]: fmhdY9Gygv7i+bwyk24y3BpoJHxLpV7SRrq23VDM
 Default region name [None]: us-west-2
 Default output format [None]: json
 ```   
-- aws s3 sync bulild/ s3://reactapp-bucket
+- aws s3 sync build/ s3://reactapp-bucket

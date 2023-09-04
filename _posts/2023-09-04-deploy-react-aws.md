@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Cómo hacer deployd de react.js en AWS"
-description: "Cómo hacer deployd de react.js en AWS"
+title:  "Cómo hacer deploy de react.js en AWS"
+description: "Cómo hacer deploy de react.js en AWS"
 comments: true
 category: Tutoriales
 tags: Tutoriales Trucos
@@ -18,7 +18,7 @@ En <a target="_blank" href="{{ page.youtube }}">mi canal de youtube</a> hay un v
 - "Principal": "*"
  
 2. Crear proyecto Reat.JS
-- create-react-app reactapp
+- npx create-react-app reactapp
 - npm run build
     
 4. Hacer deploy

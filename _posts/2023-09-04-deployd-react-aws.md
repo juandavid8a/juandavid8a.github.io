@@ -13,8 +13,8 @@ En <a target="_blank" href="{{ page.youtube }}">mi canal de youtube</a> hay un v
 
 1. Crear S3
 - Block all public access
-- Properties | Static website hosting | index.html
-- Bucket policy | S3 | GetObject
+- Properties - Static website hosting - index.html
+- Bucket policy - S3 - GetObject
 - "Principal": "*"
 
 2. Crear proyecto Reat.JS

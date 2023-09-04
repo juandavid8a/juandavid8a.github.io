@@ -23,12 +23,13 @@ En <a target="_blank" href="{{ page.youtube }}">mi canal de youtube</a> hay un v
     
 4. Hacer deploy
 - login en aws
+- https://aws.amazon.com/es/cli/
+- aws --version
 - aws configure
 ```C#
 AWS Access Key ID [None]: AKIAURUY3VAMM35KPIJA
 AWS Secret Access Key [None]: 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
 Default region name [None]: us-west-2
 Default output format [None]: json
-```
-- aws --version   
+```   
 - aws s3 sync bulild/ s3://reactapp-bucket

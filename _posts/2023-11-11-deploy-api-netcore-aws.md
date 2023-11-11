@@ -14,7 +14,9 @@ En <a target="_blank" href="{{ page.youtube }}">mi canal de youtube</a> hay un v
 1. Crear Aplicación Elastic Beanstalk
 - Application Name / Enviroment / Domain / Platform Linux
 - Create Service Role
-- Create EC2 Intance Profile / IAM Role / WebTier / WorkerTier / MulticontainerDocker
+- Create EC2 Intance Profile / IAM
+- Create Role / AWS Service / UseCase = EC2
+- Add Policies = WebTier / WorkerTier / MulticontainerDocker
 - VPC / Public IP Address = Activated / Instance Subnets 
 - EC2 Security Gropus = default
  

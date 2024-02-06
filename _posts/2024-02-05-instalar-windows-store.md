@@ -15,8 +15,5 @@ En <a target="_blank" href="{{ page.youtube }}">mi canal de youtube</a> hay un v
 
 2. Ejecutar codigo
 ```C#
-185.199.108.153
-185.199.109.153
-185.199.110.153
-185.199.111.153
+Get-AppxPackage -allusers Microsoft.WindowsStore | Foreach {Add-AppxPackage -DisableDevelopmentMode -Register "$($_.InstallLocation)\AppXManifest.xml"}
 ``` 

@@ -19,7 +19,8 @@ En <a target="_blank" href="{{ page.youtube }}">mi canal de youtube</a> hay un v
    - globalStopLoss
    - globalSpread
 
-4. Copiar codigo
+4. Copiar codigo:
+   
 ```C#
 //+------------------------------------------------------------------+
 //|                                                      vikingo.mq5 |
